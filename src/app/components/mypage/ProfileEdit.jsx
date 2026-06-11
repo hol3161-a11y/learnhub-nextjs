@@ -47,10 +47,16 @@ function ProfileEdit() {
           <input type="text" value={session?.user?.name || ""} readOnly />
         </div>
 
-        <div className="formRow">
-          <label>이메일</label>
-          <input type="email" value={session?.user?.email || ""} readOnly />
-        </div>
+        {session?.user?.email && (
+          <div className="formRow">
+            <label>이메일</label>
+            <input
+              type="email"
+              value={session.user.email}
+              readOnly
+            />
+          </div>
+        )}
 
         <div className="formRow">
           <label>학력</label>
