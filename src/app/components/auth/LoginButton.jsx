@@ -205,11 +205,11 @@ function LoginButton() {
                       <input
                         type="radio"
                         name="edu"
-                        checked={onboarding.education === "대학 2·3년제"}
+                        checked={onboarding.education === "(2·3년제) 대학"}
                         onChange={() =>
                           setOnboarding({
                             ...onboarding,
-                            education: "대학 2·3년제",
+                            education: "(2·3년제) 대학",
                           })
                         }
                       />
@@ -220,11 +220,11 @@ function LoginButton() {
                       <input
                         type="radio"
                         name="edu"
-                        checked={onboarding.education === "대학 4년제"}
+                        checked={onboarding.education === "(4년제) 대학교"}
                         onChange={() =>
                           setOnboarding({
                             ...onboarding,
-                            education: "대학 4년제",
+                            education: "(4년제) 대학교",
                           })
                         }
                       />
