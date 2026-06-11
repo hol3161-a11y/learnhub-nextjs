@@ -1,0 +1,3741 @@
+[
+  {
+    "id": 1,
+    "category": "프론트엔드",
+    "academy": "미래디지털원격평생교육원",
+    "title": "모바일 웹 제작을 위한 HTML + CSS + 반응형 웹",
+    "status": "모집중",
+    "deadline": "2026-06-02",
+    "period": "4주",
+    "type": "온라인",
+    "location": "-",
+    "price": "24,000원",
+    "tags": ["HTML", "CSS", "반응형"],
+    "thumbnail": "/image/frontend/img1.jpg",
+    "shortDesc": "HTML과 CSS를 활용해 반응형 웹사이트를 제작하며 웹 퍼블리싱 기초를 탄탄하게 다지는 과정입니다.",
+    "courseLink": "https://www.kdedu.co.kr/course/course_view.jsp?id=304&cid=119&ch=course2&utm_source=boottent&utm_medium=referral",
+
+    "capacity": "100명",
+    "currentApplicants": "63명",
+
+    "intro": "HTML과 CSS를 활용한 웹 페이지 제작 기초부터 반응형 웹 구현까지 학습하는 과정입니다. 다양한 디바이스 환경에 최적화된 웹사이트를 제작하며 실무에 필요한 퍼블리싱 역량을 키울 수 있습니다.",
+
+    "recommendFor": [
+      "웹 퍼블리셔를 목표로 하는 분",
+      "HTML과 CSS를 처음 배우는 분",
+      "반응형 웹 제작을 배우고 싶은 분",
+      "실습 중심으로 포트폴리오를 만들고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "미래디지털원격평생교육원",
+      "desc": "미래를 생각하고, 미래를 꿈꾸는 미래디지털원격평생교육원",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://www.kdedu.co.kr/main/index.jsp"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_html.svg",
+        "title": "HTML",
+        "desc": "웹 페이지 구조 설계와 시맨틱 마크업 작성"
+      },
+      {
+        "icon": "/image/course/ic_css.svg",
+        "title": "CSS",
+        "desc": "스타일링과 레이아웃 구성 방법 학습"
+      },
+      {
+        "icon": "/image/course/ic_responsive.svg",
+        "title": "반응형 웹",
+        "desc": "모바일 · 태블릿 · PC 화면 대응 제작"
+      },
+      {
+        "icon": "/image/course/ic_project.svg",
+        "title": "실전 프로젝트",
+        "desc": "반응형 랜딩 페이지 제작 및 배포"
+      }
+    ],
+
+    "relatedTags": ["HTML", "CSS", "반응형", "웹퍼블리셔"]
+  },
+
+  {
+    "id": 2,
+    "category": "프론트엔드",
+    "academy": "이젠아카데미",
+    "title": "UXUI디자인 및 프론트엔드개발 부트캠프",
+    "status": "모집중",
+    "deadline": "2026-06-05",
+    "period": "5.5개월",
+    "type": "오프라인 (서울 · 인천 · 경기)",
+    "price": "40만원",
+    "tags": ["UXUI", "JavaScript", "React"],
+    "thumbnail": "/image/frontend/img2.jpg",
+    "shortDesc": "UX/UI 디자인부터 React 개발까지 실무 프로젝트 중심으로 학습하는 프론트엔드 부트캠프입니다.",
+    "courseLink": "https://gn.ezenac.co.kr/ezen/curriculum/?idx=5337&utm_source=boottent&utm_medium=referral",
+    "capacity": "80명",
+    "currentApplicants": "52명",
+
+    "intro": "UX/UI 디자인과 프론트엔드 개발을 함께 학습하는 부트캠프 과정입니다. 사용자 중심의 인터페이스 설계부터 React 기반 웹 애플리케이션 개발까지 실무 중심으로 경험할 수 있습니다.",
+
+    "recommendFor": [
+      "프론트엔드 개발자를 준비하는 분",
+      "UX/UI 디자인에 관심 있는 분",
+      "React를 배우고 싶은 분",
+      "실무 프로젝트 경험을 쌓고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "이젠아카데미",
+      "desc": "실무 중심의 IT 교육을 제공하며 다양한 프로젝트 기반 교육 과정을 운영하고 있습니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://www.ezenac.co.kr/ezen/curriculum/?idx=5339&utm_source=boottent&utm_medium=referral"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_design.svg",
+        "title": "UX/UI",
+        "desc": "사용자 중심 인터페이스 설계"
+      },
+      {
+        "icon": "/image/course/ic_js.svg",
+        "title": "JavaScript",
+        "desc": "웹 개발 핵심 문법 학습"
+      },
+      {
+        "icon": "/image/course/ic_react.svg",
+        "title": "React",
+        "desc": "컴포넌트 기반 개발"
+      },
+      {
+        "icon": "/image/course/ic_project.svg",
+        "title": "팀 프로젝트",
+        "desc": "실무형 서비스 제작"
+      }
+    ],
+
+    "relatedTags": ["UXUI", "JavaScript", "React"]
+  },
+
+  {
+    "id": 3,
+    "category": "프론트엔드",
+    "academy": "멋쟁이사자처럼",
+    "title": "입문부터 배포까지 리액트로 완성하는 프론트엔드 실무",
+    "status": "모집중",
+    "deadline": "2026-06-07",
+    "period": "6주",
+    "type": "온라인",
+    "location": "-",
+    "price": "40,800원",
+    "tags": ["React", "JavaScript", "Git"],
+    "thumbnail": "/image/frontend/img3.jpg",
+    "shortDesc": "React를 활용해 컴포넌트 설계, 상태관리, API 연동, 배포까지 경험하는 실무 과정입니다.",
+    "courseLink": "https://likelion.net/onboarding/kdc-react1000?utm_source=boottent&utm_medium=referral",
+    "capacity": "70명",
+    "currentApplicants": "45명",
+
+    "intro": "React를 활용하여 실무 프로젝트를 구현하는 과정입니다. 컴포넌트 설계부터 상태관리, API 연동, 배포까지 프론트엔드 개발 전 과정을 경험할 수 있습니다.",
+
+    "recommendFor": [
+      "React를 처음 배우는 분",
+      "프론트엔드 취업 준비생",
+      "실무 프로젝트를 경험하고 싶은 분",
+      "포트폴리오를 만들고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "멋쟁이사자처럼",
+      "desc": "실무 중심의 개발자 교육을 제공하는 대표적인 IT 교육 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://likelion.net/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_react.svg",
+        "title": "React",
+        "desc": "컴포넌트와 Hooks 학습"
+      },
+      {
+        "icon": "/image/course/ic_api.svg",
+        "title": "API 연동",
+        "desc": "데이터 통신 구현"
+      },
+      {
+        "icon": "/image/course/ic_git.svg",
+        "title": "Git",
+        "desc": "버전 관리와 협업"
+      },
+      {
+        "icon": "/image/course/ic_project.svg",
+        "title": "배포",
+        "desc": "프로젝트 배포 경험"
+      }
+    ],
+
+    "relatedTags": ["React", "JavaScript", "Git"]
+  },
+
+  {
+    "id": 4,
+    "category": "프론트엔드",
+    "academy": "그린온라인캠프",
+    "title": "Open API를 활용한 인터랙티브 웹 애플리케이션 개발",
+    "status": "모집중",
+    "deadline": "2026-06-09",
+    "period": "4주",
+    "type": "온라인",
+    "location": "-",
+    "price": "22,000원",
+    "tags": ["JavaScript", "HTML", "CSS", "OpenAPI"],
+    "thumbnail": "/image/frontend/img4.jpg",
+    "shortDesc": "Open API를 활용해 데이터 기반 인터랙티브 웹 애플리케이션을 개발하는 과정입니다.",
+    "courseLink": "https://greenart.co.kr/curriculum/curriculum_detail?idx=14558&utm_source=boottent&utm_medium=referral",
+    "capacity": "90명",
+    "currentApplicants": "57명",
+
+    "intro": "Open API를 활용하여 데이터를 수집하고 사용자와 상호작용하는 웹 애플리케이션을 개발하는 과정입니다.",
+
+    "recommendFor": [
+      "JavaScript 실력을 높이고 싶은 분",
+      "API 활용법을 배우고 싶은 분",
+      "동적인 웹 서비스를 만들고 싶은 분",
+      "실무 프로젝트를 경험하고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "그린온라인캠프",
+      "desc": "온라인 기반 실무형 IT 교육 과정을 운영하는 교육 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://greenart.co.kr/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_js.svg",
+        "title": "JavaScript",
+        "desc": "동적 기능 구현"
+      },
+      {
+        "icon": "/image/course/ic_api.svg",
+        "title": "Open API",
+        "desc": "외부 데이터 연동"
+      },
+      {
+        "icon": "/image/course/ic_html.svg",
+        "title": "HTML/CSS",
+        "desc": "UI 구성 및 스타일링"
+      },
+      {
+        "icon": "/image/course/ic_project.svg",
+        "title": "웹 앱 제작",
+        "desc": "실전 프로젝트 진행"
+      }
+    ],
+
+    "relatedTags": ["JavaScript", "HTML", "CSS", "OpenAPI"]
+  },
+  {
+    "id": 5,
+    "category": "프론트엔드",
+    "academy": "그린컴퓨터아카데미",
+    "title": "(스마트웹&콘텐츠개발) 프론트엔드 개발자",
+    "status": "모집중",
+    "deadline": "2026-06-09",
+    "period": "6개월",
+    "type": "오프라인 (서울)",
+    "location": "서울",
+    "price": "40만원",
+    "tags": ["HTML5", "CSS3", "JavaScript", "React"],
+    "thumbnail": "/image/frontend/img5.jpg",
+    "shortDesc": "HTML5, CSS3, JavaScript, React를 학습하며 프론트엔드 개발 역량을 키우는 과정입니다.",
+    "courseLink": "https://nowon.greenart.co.kr/curriculum/curriculum_detail?idx=15005&utm_source=boottent&utm_medium=referral",
+    "capacity": "60명",
+    "currentApplicants": "39명",
+
+    "intro": "HTML5, CSS3, JavaScript, React를 활용하여 프론트엔드 개발자로 성장하기 위한 핵심 역량을 학습하는 실무 중심 과정입니다.",
+
+    "recommendFor": [
+      "프론트엔드 개발자를 목표로 하는 분",
+      "웹 개발을 처음 시작하는 분",
+      "React를 배우고 싶은 분",
+      "취업용 포트폴리오를 만들고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "그린컴퓨터아카데미",
+      "desc": "실무 프로젝트 중심 교육을 통해 개발자 취업을 지원하는 IT 교육 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://nowon.greenart.co.kr/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_html.svg",
+        "title": "HTML5 / CSS3",
+        "desc": "웹 표준 및 스타일링"
+      },
+      {
+        "icon": "/image/course/ic_js.svg",
+        "title": "JavaScript",
+        "desc": "동적 웹 구현"
+      },
+      {
+        "icon": "/image/course/ic_react.svg",
+        "title": "React",
+        "desc": "SPA 개발 학습"
+      },
+      {
+        "icon": "/image/course/ic_project.svg",
+        "title": "실무 프로젝트",
+        "desc": "포트폴리오 제작"
+      }
+    ],
+
+    "relatedTags": ["HTML5", "CSS3", "JavaScript", "React"]
+  },
+  {
+    "id": 6,
+    "category": "프론트엔드",
+    "academy": "클로소",
+    "title": "최신 리액트 & 타입스크립트",
+    "status": "모집중",
+    "deadline": "2026-06-09",
+    "period": "5주",
+    "type": "온라인",
+    "location": "-",
+    "price": "32,250원",
+    "tags": ["React", "TypeScript"],
+    "thumbnail": "/image/frontend/img6.jpg",
+    "shortDesc": "최신 React와 TypeScript를 활용해 안정적인 웹 애플리케이션을 개발하는 심화 과정입니다.",
+    "courseLink": "https://coloso.co.kr/event/kdc-leedohaeng?utm_source=boottent&utm_medium=referral",
+    "capacity": "75명",
+    "currentApplicants": "46명",
+
+    "intro": "최신 React와 TypeScript를 활용하여 안정적이고 유지보수하기 쉬운 웹 애플리케이션을 개발하는 방법을 학습하는 과정입니다.",
+
+    "recommendFor": [
+      "React 기초 이후 심화 학습이 필요한 분",
+      "TypeScript를 처음 배우는 분",
+      "안정적인 코드 작성법을 익히고 싶은 분",
+      "실무형 프론트엔드 개발을 준비하는 분"
+    ],
+
+    "academyInfo": {
+      "name": "클로소",
+      "desc": "실무자 중심의 온라인 교육 콘텐츠를 제공하는 디지털 교육 플랫폼입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://coloso.co.kr/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_react.svg",
+        "title": "React",
+        "desc": "컴포넌트 설계와 Hooks 활용"
+      },
+      {
+        "icon": "/image/course/ic_typescript.svg",
+        "title": "TypeScript",
+        "desc": "타입 기반 코드 작성"
+      },
+      {
+        "icon": "/image/course/ic_state.svg",
+        "title": "상태관리",
+        "desc": "데이터 흐름과 상태 구조 이해"
+      },
+      {
+        "icon": "/image/course/ic_project.svg",
+        "title": "실전 예제",
+        "desc": "현업 스타일 코드 작성"
+      }
+    ],
+
+    "relatedTags": ["React", "TypeScript", "프론트엔드"]
+  },
+  {
+    "id": 7,
+    "category": "프론트엔드",
+    "academy": "코드잇 스프린트",
+    "title": "프론트엔드 단기심화 과정 15기",
+    "status": "모집중",
+    "deadline": "2026-06-11",
+    "period": "8주",
+    "type": "온라인",
+    "location": "-",
+    "price": "30만원",
+    "tags": ["React", "Next.js", "TypeScript"],
+    "thumbnail": "/image/frontend/img7.jpg",
+    "shortDesc": "React, Next.js, TypeScript 기반 프로젝트를 통해 실무 역량을 높이는 단기 심화 과정입니다.",
+    "courseLink": "https://sprint.codeit.kr/track/frontend-advanced",
+    "capacity": "50명",
+    "currentApplicants": "34명",
+
+    "intro": "React, Next.js, TypeScript 기반의 프론트엔드 심화 과정입니다. 최신 개발 환경과 프로젝트 경험을 통해 실무 역량을 높일 수 있습니다.",
+
+    "recommendFor": [
+      "프론트엔드 심화 학습이 필요한 분",
+      "Next.js를 배우고 싶은 분",
+      "TypeScript 기반 프로젝트를 만들고 싶은 분",
+      "취업 포트폴리오를 강화하고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "코드잇 스프린트",
+      "desc": "온라인 기반 실무형 개발 교육을 제공하며 프로젝트 중심 학습을 지원하는 교육 플랫폼입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://sprint.codeit.kr/?utm_source=google_paid&utm_medium=sa&utm_campaign=sa_general&utm_term=%EC%BD%94%EB%93%9C%EC%9E%87%20%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8&utm_content=general&gad_source=1&gad_campaignid=20371124866&gbraid=0AAAAAp49ygL8WW3QPpm2YHFkjb2uA7XxM&gclid=CjwKCAjwxITRBhBYEiwA6mZm7X3w9ZBXRN2FhyEdweTCuXl3hRCjQhNN_jUo8Ok8gKbM8KLd7PGKXRoCoWoQAvD_BwE"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_react.svg",
+        "title": "React",
+        "desc": "컴포넌트 기반 UI 개발"
+      },
+      {
+        "icon": "/image/course/ic_next.svg",
+        "title": "Next.js",
+        "desc": "라우팅과 페이지 구성"
+      },
+      {
+        "icon": "/image/course/ic_typescript.svg",
+        "title": "TypeScript",
+        "desc": "타입 안정성 학습"
+      },
+      {
+        "icon": "/image/course/ic_project.svg",
+        "title": "프로젝트",
+        "desc": "실무형 웹 서비스 제작"
+      }
+    ],
+
+    "relatedTags": ["React", "Next.js", "TypeScript"]
+  },
+  {
+    "id": 8,
+    "category": "프론트엔드",
+    "academy": "한컴아카데미",
+    "title": "성남시 AI 기반 프론트엔드 웹개발자 양성과정",
+    "status": "모집마감",
+    "deadline": "2026-05-29",
+    "period": "2.5개월",
+    "type": "오프라인 (경기)",
+    "location": "경기",
+    "price": "무료",
+    "tags": ["OpenAI", "React", "Axios", "GitHub"],
+    "thumbnail": "/image/frontend/img8.jpg",
+    "shortDesc": "AI 기술과 React를 접목해 실무형 웹 서비스를 개발하는 프론트엔드 과정입니다.",
+    "courseLink": "https://eduhancom.com/?utm_source=boottent&utm_medium=referral",
+    "capacity": "80명",
+    "currentApplicants": "80명",
+
+    "intro": "AI 기술과 프론트엔드 개발을 접목한 과정입니다. React와 Axios를 활용하여 AI 기반 웹 서비스를 구현하고 GitHub를 통한 협업 흐름을 경험합니다.",
+
+    "recommendFor": [
+      "AI 활용 개발에 관심 있는 분",
+      "React와 Axios를 배우고 싶은 분",
+      "GitHub 협업 흐름을 익히고 싶은 분",
+      "프론트엔드 프로젝트를 경험하고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "한컴아카데미",
+      "desc": "IT 기술 교육과 실무 중심 개발 과정을 제공하는 교육 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://www.hancomins.com/main"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_ai.svg",
+        "title": "OpenAI",
+        "desc": "AI 기능 활용 이해"
+      },
+      {
+        "icon": "/image/course/ic_react.svg",
+        "title": "React",
+        "desc": "화면 구성과 상태관리"
+      },
+      {
+        "icon": "/image/course/ic_api.svg",
+        "title": "Axios",
+        "desc": "API 데이터 연동"
+      },
+      {
+        "icon": "/image/course/ic_git.svg",
+        "title": "GitHub",
+        "desc": "협업과 코드 관리"
+      }
+    ],
+
+    "relatedTags": ["OpenAI", "React", "Axios", "GitHub"]
+  },
+  {
+    "id": 9,
+    "category": "프론트엔드",
+    "academy": "이스트캠프",
+    "title": "오르미 프론트엔드 개발 (React, HTML/CSS/JavaScript)",
+    "status": "모집마감",
+    "deadline": "2026-05-25",
+    "period": "4.5개월",
+    "type": "온라인",
+    "location": "-",
+    "price": "50만원",
+    "tags": ["JavaScript", "React", "Vue", "Next.js"],
+    "thumbnail": "/image/frontend/img9.jpg",
+    "shortDesc": "HTML, CSS, JavaScript, React를 기반으로 프론트엔드 개발 전반을 학습하는 과정입니다.",
+    "courseLink": "https://estsoft.ai/persostudio",
+    "capacity": "100명",
+    "currentApplicants": "100명",
+
+    "intro": "React, HTML, CSS, JavaScript를 기반으로 프론트엔드 개발 전반을 학습하는 과정입니다. 기초부터 프로젝트 제작까지 단계적으로 경험할 수 있습니다.",
+
+    "recommendFor": [
+      "프론트엔드 기본기를 다지고 싶은 분",
+      "React와 Vue를 비교하며 배우고 싶은 분",
+      "웹 개발 포트폴리오가 필요한 분",
+      "온라인으로 장기 학습하고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "이스트캠프",
+      "desc": "온라인 기반 IT 교육과 개발자 양성 과정을 운영하는 교육 플랫폼입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://estsoft.ai/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_html.svg",
+        "title": "HTML / CSS",
+        "desc": "웹 화면 구조와 스타일"
+      },
+      {
+        "icon": "/image/course/ic_js.svg",
+        "title": "JavaScript",
+        "desc": "인터랙션 구현"
+      },
+      {
+        "icon": "/image/course/ic_react.svg",
+        "title": "React",
+        "desc": "컴포넌트 기반 개발"
+      },
+      {
+        "icon": "/image/course/ic_nextjs.svg",
+        "title": "Next.js",
+        "desc": "프론트엔드 확장 학습"
+      }
+    ],
+
+    "relatedTags": ["JavaScript", "React", "Vue", "Next.js"]
+  },
+  {
+    "id": 10,
+    "category": "프론트엔드",
+    "academy": "KT Cloud",
+    "title": "KT Cloud 프론트엔드 과정",
+    "status": "모집마감",
+    "deadline": "2026-05-25",
+    "period": "6.5개월",
+    "type": "온라인",
+    "location": "-",
+    "price": "60만원",
+    "tags": ["React", "UI/UX", "디자인시스템"],
+    "thumbnail": "/image/frontend/img10.jpg",
+    "shortDesc": "React와 UI/UX, 디자인시스템을 함께 학습하며 사용자 중심 화면을 구현하는 과정입니다.",
+    "courseLink": "https://ktcloud-techup.com/frontend?utm_source=boottent&utm_medium=viral&utm_campaign=techup_frontend_2026-06_na_na&utm_content=general-post_generic&",
+    "capacity": "90명",
+    "currentApplicants": "90명",
+
+    "intro": "React와 UI/UX, 디자인시스템을 함께 학습하며 일관성 있는 프론트엔드 화면을 구현하는 과정입니다.",
+
+    "recommendFor": [
+      "UI/UX 감각을 갖춘 개발자가 되고 싶은 분",
+      "디자인시스템에 관심 있는 분",
+      "React 기반 UI 제작을 배우고 싶은 분",
+      "서비스 화면 구현 능력을 키우고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "KT Cloud",
+      "desc": "클라우드와 IT 기술 기반의 실무형 교육 과정을 제공하는 교육 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://ktcloud-techup.com/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_react.svg",
+        "title": "React",
+        "desc": "재사용 가능한 UI 컴포넌트"
+      },
+      {
+        "icon": "/image/course/ic_design.svg",
+        "title": "UI/UX",
+        "desc": "사용자 중심 화면 설계"
+      },
+      {
+        "icon": "/image/course/ic_designsystem.svg",
+        "title": "디자인시스템",
+        "desc": "일관된 스타일 관리"
+      },
+      {
+        "icon": "/image/course/ic_project.svg",
+        "title": "프로젝트",
+        "desc": "서비스 화면 구현"
+      }
+    ],
+
+    "relatedTags": ["React", "UI/UX", "디자인시스템"]
+  },
+  {
+    "id": 11,
+    "category": "프론트엔드",
+    "academy": "그린컴퓨터아카데미",
+    "title": "AI코딩 어시스턴트 Github Copilot 활용 프론트엔드 개발자",
+    "status": "모집마감",
+    "deadline": "2026-05-14",
+    "period": "6개월",
+    "type": "오프라인 (서울)",
+    "location": "서울",
+    "price": "40만원",
+    "tags": ["React", "TypeScript", "Firebase"],
+    "thumbnail": "/image/frontend/img11.jpg",
+    "shortDesc": "GitHub Copilot과 AI 도구를 활용해 생산성 높은 프론트엔드 개발을 경험하는 과정입니다.",
+    "courseLink": "https://jongro.greenart.co.kr/curriculum/curriculum_detail?idx=14914&utm_source=boottent&utm_medium=referral",
+    "capacity": "70명",
+    "currentApplicants": "70명",
+
+    "intro": "GitHub Copilot과 AI 코딩 도구를 활용해 React, TypeScript, Firebase 기반 프론트엔드 개발을 배우는 과정입니다.",
+
+    "recommendFor": [
+      "AI 코딩 도구를 활용해보고 싶은 분",
+      "React와 TypeScript를 함께 배우고 싶은 분",
+      "Firebase 기반 서비스를 만들고 싶은 분",
+      "실무 개발 생산성을 높이고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "그린컴퓨터아카데미",
+      "desc": "실무 프로젝트 중심 교육을 통해 개발자 취업을 지원하는 IT 교육 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://jongro.greenart.co.kr/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_react.svg",
+        "title": "React",
+        "desc": "프론트엔드 UI 구현"
+      },
+      {
+        "icon": "/image/course/ic_typescript.svg",
+        "title": "TypeScript",
+        "desc": "타입 기반 개발"
+      },
+      {
+        "icon": "/image/course/ic_firebase.svg",
+        "title": "Firebase",
+        "desc": "인증과 데이터 관리"
+      },
+      {
+        "icon": "/image/course/ic_ai.svg",
+        "title": "Copilot",
+        "desc": "AI 코딩 도구 활용"
+      }
+    ],
+
+    "relatedTags": ["React", "TypeScript", "Firebase", "Copilot"]
+  },
+  {
+    "id": 12,
+    "category": "프론트엔드",
+    "academy": "더조은컴퓨터학원",
+    "title": "기업 실무프로젝트 기반 자바&프론트엔드 개발자 양성과정",
+    "status": "모집마감",
+    "deadline": "2026-05-05",
+    "period": "6개월",
+    "type": "오프라인 (경기)",
+    "location": "경기",
+    "price": "40만원",
+    "tags": ["Java", "SpringBoot", "프론트엔드"],
+    "thumbnail": "/image/frontend/img12.jpg",
+    "shortDesc": "Java와 프론트엔드를 함께 학습하며 웹 서비스 개발 전반을 경험하는 융합 과정입니다.",
+    "courseLink": "https://is.tjoeun.co.kr/lecture/3370?utm_source=boottent&utm_medium=referral",
+    "capacity": "60명",
+    "currentApplicants": "60명",
+    "intro": "Java, Spring Boot와 함께 프론트엔드 개발을 학습하며 웹 서비스 개발 전반의 흐름을 경험할 수 있는 융합 과정입니다.",
+
+    "recommendFor": [
+      "프론트엔드와 백엔드 흐름을 함께 알고 싶은 분",
+      "Java 기반 프로젝트에 관심 있는 분",
+      "기업 실무 프로젝트 경험이 필요한 분",
+      "협업 중심 개발을 배우고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "더조은컴퓨터학원",
+      "desc": "IT 실무 교육과 프로젝트 기반 개발자 양성 과정을 운영하는 교육 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://is.tjoeun.co.kr/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_java.svg",
+        "title": "Java",
+        "desc": "백엔드 개발 기초"
+      },
+      {
+        "icon": "/image/course/ic_SpringBoot.svg",
+        "title": "SpringBoot",
+        "desc": "서버 API 구성"
+      },
+      {
+        "icon": "/image/course/ic_frontend.svg",
+        "title": "프론트엔드",
+        "desc": "화면 구현과 연동"
+      },
+      {
+        "icon": "/image/course/ic_project.svg",
+        "title": "팀 프로젝트",
+        "desc": "기업 실무형 프로젝트"
+      }
+    ],
+
+    "relatedTags": ["Java", "SpringBoot", "프론트엔드"]
+  },
+  {
+    "id": 13,
+    "category": "프론트엔드",
+    "academy": "이스트소프트",
+    "title": "프론트엔드 부트캠프 14기",
+    "status": "모집마감",
+    "deadline": "2026-04-28",
+    "period": "4.5개월",
+    "type": "온라인",
+    "location": "-",
+    "price": "50만원",
+    "tags": ["HTML", "CSS", "React", "TypeScript"],
+    "thumbnail": "/image/frontend/img13.jpg",
+    "shortDesc": "HTML, CSS, React, TypeScript를 활용해 취업을 목표로 학습하는 프론트엔드 부트캠프입니다.",
+    "courseLink": "https://estsoft.ai/persostudio",
+    "capacity": "100명",
+    "currentApplicants": "100명",
+
+    "intro": "HTML, CSS, React, TypeScript를 활용해 프론트엔드 취업을 목표로 학습하는 부트캠프 과정입니다.",
+
+    "recommendFor": [
+      "프론트엔드 취업을 준비하는 분",
+      "HTML/CSS부터 React까지 배우고 싶은 분",
+      "TypeScript를 함께 익히고 싶은 분",
+      "포트폴리오 제작이 필요한 분"
+    ],
+
+    "academyInfo": {
+      "name": "이스트소프트",
+      "desc": "소프트웨어 개발과 IT 인재 양성을 위한 실무 중심 교육을 제공하는 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://estsoft.ai/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_html.svg",
+        "title": "HTML / CSS",
+        "desc": "웹 퍼블리싱 기초"
+      },
+      {
+        "icon": "/image/course/ic_react.svg",
+        "title": "React",
+        "desc": "컴포넌트 기반 개발"
+      },
+      {
+        "icon": "/image/course/ic_typescript.svg",
+        "title": "TypeScript",
+        "desc": "안정적인 코드 작성"
+      },
+      {
+        "icon": "/image/course/ic_project.svg",
+        "title": "포트폴리오",
+        "desc": "개인 프로젝트 제작"
+      }
+    ],
+
+    "relatedTags": ["HTML", "CSS", "React", "TypeScript"]
+  },
+  {
+    "id": 14,
+    "category": "프론트엔드",
+    "academy": "미래디지털평생교육원",
+    "title": "비전공자의 웹 개발 첫걸음! 자바스크립트 입문 과정",
+    "status": "모집마감",
+    "deadline": "2026-04-21",
+    "period": "4주",
+    "type": "온라인",
+    "location": "-",
+    "price": "20,000원",
+    "tags": ["JavaScript", "DOM", "브라우저"],
+    "thumbnail": "/image/frontend/img14.jpg",
+    "shortDesc": "JavaScript 기초부터 DOM, 이벤트 처리까지 웹 개발 기본기를 학습하는 입문 과정입니다.",
+    "courseLink": "https://www.kdedu.co.kr/course/course_view.jsp?id=277&utm_source=boottent&utm_medium=referral",
+    "capacity": "120명",
+    "currentApplicants": "120명",
+    "intro": "비전공자를 위한 JavaScript 입문 과정입니다. DOM, 브라우저 동작, 이벤트 처리 등 웹 개발의 기본 개념을 학습합니다.",
+
+    "recommendFor": [
+      "JavaScript를 처음 배우는 분",
+      "비전공자로 웹 개발을 시작하는 분",
+      "브라우저 동작 원리를 알고 싶은 분",
+      "기초 문법을 탄탄히 다지고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "미래디지털평생교육원",
+      "desc": "온라인 기반의 디지털 역량 강화 교육을 제공하는 평생교육 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://www.kdedu.co.kr/main/index.jsp"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_js.svg",
+        "title": "JavaScript",
+        "desc": "기초 문법과 함수"
+      },
+      {
+        "icon": "/image/course/ic_Dom.svg",
+        "title": "DOM",
+        "desc": "HTML 요소 제어"
+      },
+      {
+        "icon": "/image/course/ic_browser.svg",
+        "title": "브라우저",
+        "desc": "이벤트와 화면 동작"
+      },
+      {
+        "icon": "/image/course/ic_practice.svg",
+        "title": "실습",
+        "desc": "간단한 웹 기능 제작"
+      }
+    ],
+
+    "relatedTags": ["JavaScript", "DOM", "브라우저"]
+  },
+  {
+    "id": 15,
+    "category": "프론트엔드",
+    "academy": "이젠아카데미DX교육센터",
+    "title": "UXUI디자인&웹기획 프론트엔드 부트캠프",
+    "status": "모집마감",
+    "deadline": "2026-04-21",
+    "period": "5.5개월",
+    "type": "오프라인 (서울)",
+    "location": "서울",
+    "price": "40만원",
+    "tags": ["UXUI", "Figma", "React", "TypeScript"],
+    "thumbnail": "/image/frontend/img15.jpg",
+    "shortDesc": "UX/UI 디자인과 웹 기획, React 개발을 함께 경험하는 통합형 프론트엔드 부트캠프입니다.",
+    "courseLink": "https://www.ezenac.co.kr/ezen/curriculum/?idx=5339&utm_source=boottent&utm_medium=referral",
+    "capacity": "80명",
+    "currentApplicants": "80명",
+
+    "intro": "UX/UI 디자인, 웹 기획, React, TypeScript를 기반으로 서비스 기획부터 프론트엔드 구현까지 학습하는 통합형 부트캠프입니다.",
+
+    "recommendFor": [
+      "웹기획과 UI 디자인을 함께 배우고 싶은 분",
+      "Figma 기반 화면 설계를 익히고 싶은 분",
+      "React와 TypeScript를 배우고 싶은 분",
+      "기획부터 개발까지 경험하고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "이젠아카데미DX교육센터",
+      "desc": "디지털 전환 시대에 맞춘 UX/UI, 웹 개발, 프론트엔드 실무 교육을 제공하는 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://www.ezenac.co.kr/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_design.svg",
+        "title": "UX/UI",
+        "desc": "서비스 구조와 화면 설계"
+      },
+      {
+        "icon": "/image/course/ic_figma.svg",
+        "title": "Figma",
+        "desc": "프로토타입 제작"
+      },
+      {
+        "icon": "/image/course/ic_react.svg",
+        "title": "React",
+        "desc": "프론트엔드 화면 개발"
+      },
+      {
+        "icon": "/image/course/ic_typescript.svg",
+        "title": "TypeScript",
+        "desc": "타입 기반 프로젝트"
+      }
+    ],
+
+    "relatedTags": ["UXUI", "Figma", "React", "TypeScript"]
+  },
+  {
+    "id": 16,
+    "category": "백엔드",
+    "academy": "SD부트캠프",
+    "title": "Spring Boot로 처음 하는 Web",
+    "status": "모집중",
+    "deadline": "2026-06-02",
+    "period": "4주",
+    "type": "온라인",
+    "location": "-",
+    "price": "17,000원",
+    "tags": ["SpringBoot", "RDBMS", "JSP"],
+    "thumbnail": "/image/Backend/img1.jpg",
+    "shortDesc": "Spring Boot를 활용해 REST API와 데이터 처리 기초를 학습하는 백엔드 입문 과정입니다.",
+    "courseLink": "https://sdboot.com/159?utm_source=boottent&utm_medium=referral",
+    "capacity": "100명",
+    "currentApplicants": "61명",
+
+    "intro": "Spring Boot를 활용해 웹 애플리케이션의 기본 구조와 서버 개발 흐름을 학습하는 과정입니다. 백엔드 입문자가 REST API와 데이터 처리 기초를 이해할 수 있도록 구성되어 있습니다.",
+
+    "recommendFor": [
+      "백엔드 개발을 처음 시작하는 분",
+      "Spring Boot 기초를 배우고 싶은 분",
+      "웹 서버 구조를 이해하고 싶은 분",
+      "Java 기반 개발에 관심 있는 분"
+    ],
+
+    "academyInfo": {
+      "name": "SD부트캠프",
+      "desc": "입문자도 쉽게 따라갈 수 있는 실무 중심 개발 교육을 제공하는 온라인 교육 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://sdboot.com/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_SpringBoot.svg",
+        "title": "Spring Boot",
+        "desc": "백엔드 서버 기본 구조 학습"
+      },
+      {
+        "icon": "/image/course/ic_db.svg",
+        "title": "RDBMS",
+        "desc": "관계형 데이터베이스 이해"
+      },
+      {
+        "icon": "/image/course/ic_form.svg",
+        "title": "JSP",
+        "desc": "서버 기반 화면 처리"
+      },
+      {
+        "icon": "/image/course/ic_api.svg",
+        "title": "REST API",
+        "desc": "데이터 요청과 응답 처리"
+      }
+    ],
+
+    "relatedTags": ["SpringBoot", "RDBMS", "JSP", "백엔드"]
+  },
+  {
+    "id": 17,
+    "category": "백엔드",
+    "academy": "유비온",
+    "title": "비전공자를 위한 FastAPI 백엔드 서버 기초",
+    "status": "모집중",
+    "deadline": "2026-06-05",
+    "period": "4주",
+    "type": "온라인",
+    "location": "-",
+    "price": "36,000원",
+    "tags": ["Python", "SQL", "FastAPI", "AWS"],
+    "thumbnail": "/image/Backend/img2.jpg",
+    "shortDesc": "Python과 FastAPI를 활용해 백엔드 서버 구축과 API 개발을 경험하는 과정입니다.",
+    "courseLink": "https://hrd.wowpass.com/Wanaeca/Apply/ApplyDetail.cshtml?co_id=ABD250000001&ch_id=CHS001065002&cu_id=CI0000012184&b_yn=N&utm_source=boottent&utm_medium=referral",
+    "capacity": "90명",
+    "currentApplicants": "54명",
+    "intro": "Python과 FastAPI를 활용해 백엔드 서버를 구축하는 기초 과정입니다. SQL, API 설계, 배포 환경 이해까지 백엔드 개발의 기본 흐름을 익힐 수 있습니다.",
+
+    "recommendFor": [
+      "Python으로 백엔드를 시작하고 싶은 분",
+      "FastAPI 기초를 배우고 싶은 분",
+      "SQL과 API 구조를 익히고 싶은 분",
+      "비전공자로 서버 개발을 시작하는 분"
+    ],
+
+    "academyInfo": {
+      "name": "유비온",
+      "desc": "디지털 역량 강화와 IT 실무 교육을 제공하는 온라인 교육 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://www.ubion.co.kr/ubion/?utm_source=boottent&utm_medium=referral"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_python.svg",
+        "title": "Python",
+        "desc": "백엔드 개발 기초 문법"
+      },
+      {
+        "icon": "/image/course/ic_db.svg",
+        "title": "SQL",
+        "desc": "데이터 조회와 관리"
+      },
+      {
+        "icon": "/image/course/ic_api.svg",
+        "title": "FastAPI",
+        "desc": "빠른 API 서버 구축"
+      },
+      {
+        "icon": "/image/course/ic_aws.svg",
+        "title": "AWS",
+        "desc": "클라우드 배포 환경 이해"
+      }
+    ],
+
+    "relatedTags": ["Python", "SQL", "FastAPI", "AWS"]
+  },
+  {
+    "id": 18,
+    "category": "백엔드",
+    "academy": "SeSAC",
+    "title": "SAP 클라우드 애플리케이션 개발자 양성과정 금천6기",
+    "status": "모집중",
+    "deadline": "2026-06-07",
+    "period": "5개월",
+    "type": "오프라인 (서울)",
+    "location": "서울",
+    "price": "무료",
+    "tags": ["OpenSQL", "RESTful API", "ERP"],
+    "thumbnail": "/image/Backend/img3.jpg",
+    "shortDesc": "SAP 클라우드 환경에서 OpenSQL과 RESTful API를 활용한 기업형 서비스 개발 과정입니다.",
+    "courseLink": "https://sesac.seoul.kr/sesac/course/offline/courseDetail.do?crsSn=1287&utm_source=boottent&utm_medium=referral",
+    "capacity": "60명",
+    "currentApplicants": "42명",
+
+    "intro": "SAP 클라우드 환경에서 애플리케이션 개발 흐름을 학습하는 과정입니다. OpenSQL과 RESTful API를 활용해 기업형 ERP 서비스 구조를 이해할 수 있습니다.",
+
+    "recommendFor": [
+      "기업형 백엔드 개발에 관심 있는 분",
+      "SAP 클라우드 환경을 배우고 싶은 분",
+      "ERP 시스템 구조를 이해하고 싶은 분",
+      "RESTful API 개발을 경험하고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "SeSAC",
+      "desc": "청년 개발자 양성을 위한 실무 중심 IT 교육 프로그램을 운영하는 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://sesac.seoul.kr/sesac/main/main.do"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_db.svg",
+        "title": "OpenSQL",
+        "desc": "SAP 데이터 처리 기초"
+      },
+      {
+        "icon": "/image/course/ic_api.svg",
+        "title": "RESTful API",
+        "desc": "서버 통신 구조 설계"
+      },
+      {
+        "icon": "/image/course/ic_cloud.svg",
+        "title": "SAP Cloud",
+        "desc": "클라우드 애플리케이션 개발"
+      },
+      {
+        "icon": "/image/course/ic_erp.svg",
+        "title": "ERP",
+        "desc": "기업 시스템 흐름 이해"
+      }
+    ],
+
+    "relatedTags": ["OpenSQL", "RESTful API", "ERP", "SAP"]
+  },
+  {
+    "id": 19,
+    "category": "백엔드",
+    "academy": "내일하이",
+    "title": "네카라쿠배, 백엔드는 지금 Kotlin입니다",
+    "status": "모집중",
+    "deadline": "2026-06-07",
+    "period": "4주",
+    "type": "온라인",
+    "location": "-",
+    "price": "42,350원",
+    "tags": ["Kotlin", "JavaScript", "백엔드"],
+    "thumbnail": "/image/Backend/img4.jpg",
+    "shortDesc": "Kotlin 기반 서버 개발과 최신 백엔드 기술 트렌드를 학습하는 실무 과정입니다.",
+    "courseLink": "https://hi-d.hightecher.co.kr/product/detail/18?categorySeq=43&subCategorySeq=47&utm_source=boottent&utm_medium=referral",
+    "capacity": "80명",
+    "currentApplicants": "49명",
+    "intro": "Kotlin을 활용한 백엔드 개발 흐름을 학습하는 과정입니다. JavaScript와 서버 개발 개념을 함께 익히며 최신 백엔드 기술 트렌드를 이해할 수 있습니다.",
+
+    "recommendFor": [
+      "Kotlin 백엔드에 관심 있는 분",
+      "Java 계열 서버 개발을 배우고 싶은 분",
+      "백엔드 개발 트렌드를 알고 싶은 분",
+      "기초부터 서버 구조를 이해하고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "내일하이",
+      "desc": "실무 기술 중심의 온라인 개발 교육 과정을 제공하는 교육 플랫폼입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://hi-d.hightecher.co.kr/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_kotlin.svg",
+        "title": "Kotlin",
+        "desc": "백엔드 개발 언어 학습"
+      },
+      {
+        "icon": "/image/course/ic_js.svg",
+        "title": "JavaScript",
+        "desc": "웹 개발 기초 이해"
+      },
+      {
+        "icon": "/image/course/ic_server.svg",
+        "title": "서버 구조",
+        "desc": "요청과 응답 흐름 이해"
+      },
+      {
+        "icon": "/image/course/ic_project.svg",
+        "title": "백엔드 실습",
+        "desc": "간단한 서버 기능 구현"
+      }
+    ],
+
+    "relatedTags": ["Kotlin", "JavaScript", "백엔드"]
+  },
+  {
+    "id": 20,
+    "category": "백엔드",
+    "academy": "그린온라인캠프",
+    "title": "ChatGPT를 활용한 콘텐츠 생성 플랫폼 개발: Spring Boot 실무 가이드",
+    "status": "모집중",
+    "deadline": "2026-06-09",
+    "period": "4주",
+    "type": "온라인",
+    "location": "-",
+    "price": "24,200원",
+    "tags": ["SpringBoot", "ChatGPT", "RESTful API"],
+    "thumbnail": "/image/Backend/img5.jpg",
+    "shortDesc": "Spring Boot와 ChatGPT API를 활용해 AI 기반 콘텐츠 생성 플랫폼을 개발하는 과정입니다.",
+    "courseLink": "https://hrdgn.greenart.co.kr/course/courseDetail?idx=2423&utm_source=boottent&utm_medium=referral",
+    "capacity": "90명",
+    "currentApplicants": "58명",
+    "intro": "ChatGPT를 활용한 콘텐츠 생성 플랫폼을 Spring Boot로 개발하는 실무 과정입니다. RESTful API와 JPA 기반 서버 개발 흐름을 프로젝트 중심으로 학습합니다.",
+
+    "recommendFor": [
+      "Spring Boot 실무 프로젝트를 해보고 싶은 분",
+      "ChatGPT API 활용에 관심 있는 분",
+      "RESTful API 설계를 배우고 싶은 분",
+      "콘텐츠 생성 서비스를 만들어보고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "그린온라인캠프",
+      "desc": "온라인 기반 실무형 IT 교육 과정을 운영하는 교육 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://hrdgn.greenart.co.kr/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_SpringBoot.svg",
+        "title": "Spring Boot",
+        "desc": "서버 애플리케이션 개발"
+      },
+      {
+        "icon": "/image/course/ic_ai.svg",
+        "title": "ChatGPT",
+        "desc": "AI API 활용"
+      },
+      {
+        "icon": "/image/course/ic_api.svg",
+        "title": "RESTful API",
+        "desc": "서비스 API 설계"
+      },
+      {
+        "icon": "/image/course/ic_db.svg",
+        "title": "JPA",
+        "desc": "데이터 저장과 조회"
+      }
+    ],
+
+    "relatedTags": ["SpringBoot", "ChatGPT", "RESTful API", "JPA"]
+  },
+  {
+    "id": 21,
+    "category": "백엔드",
+    "academy": "SM UNIVERSE",
+    "title": "차세대 가상 엔터테인먼트 콘텐츠 엔지니어 양성과정 10기",
+    "status": "모집중",
+    "deadline": "2026-06-18",
+    "period": "6개월",
+    "type": "오프라인 (서울)",
+    "location": "서울",
+    "price": "60만원",
+    "tags": ["Java", "Python", "JSP", "Spring"],
+    "thumbnail": "/image/Backend/img6.jpg",
+    "shortDesc": "Java, Python, Spring을 활용해 콘텐츠 플랫폼 백엔드 개발을 학습하는 과정입니다.",
+    "courseLink": "https://ikosmo.co.kr/nationally-funded-curriculum/employee-training-course-detail-view?type=a&code=78&utm_source=boottent&utm_medium=referral",
+    "capacity": "60명",
+    "currentApplicants": "37명",
+
+    "intro": "Java, Python, JSP, Spring을 활용해 엔터테인먼트 콘텐츠 플랫폼 개발 흐름을 학습하는 과정입니다. 서버 개발과 콘텐츠 서비스 구조를 함께 경험할 수 있습니다.",
+
+    "recommendFor": [
+      "콘텐츠 플랫폼 개발에 관심 있는 분",
+      "Java와 Spring 기반 백엔드를 배우고 싶은 분",
+      "Python도 함께 활용하고 싶은 분",
+      "장기 프로젝트형 수업을 원하는 분"
+    ],
+
+    "academyInfo": {
+      "name": "SM UNIVERSE",
+      "desc": "콘텐츠와 IT 기술을 융합한 실무형 교육 과정을 운영하는 교육 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://smuniverse.com/?utm_source=boottent&utm_medium=referral"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_java.svg",
+        "title": "Java",
+        "desc": "서버 개발 기초"
+      },
+      {
+        "icon": "/image/course/ic_python.svg",
+        "title": "Python",
+        "desc": "데이터 처리와 자동화"
+      },
+      {
+        "icon": "/image/course/ic_form.svg",
+        "title": "JSP",
+        "desc": "서버 페이지 구성"
+      },
+      {
+        "icon": "/image/course/ic_SpringBoot.svg",
+        "title": "Spring",
+        "desc": "웹 서비스 백엔드 개발"
+      }
+    ],
+
+    "relatedTags": ["Java", "Python", "JSP", "Spring"]
+  },
+  {
+    "id": 22,
+    "category": "백엔드",
+    "academy": "내일배움캠프",
+    "title": "단기심화 JAVA 부트캠프 8기",
+    "status": "모집중",
+    "deadline": "2026-06-22",
+    "period": "3.5개월",
+    "type": "온라인",
+    "location": "-",
+    "price": "30만원",
+    "tags": ["Java", "SpringBoot", "MSA", "Docker"],
+    "thumbnail": "/image/Backend/img7.jpg",
+    "shortDesc": "Java와 Spring Boot를 중심으로 MSA와 Docker까지 학습하는 백엔드 심화 과정입니다.",
+    "courseLink": "https://nbcamp.spartaclub.kr/advanced-java?utm_source=boottent&utm_medium=display&utm_campaign=kdt_advanced-java&utm_content=topcard_pc&utm_term=260429&",
+    "capacity": "80명",
+    "currentApplicants": "51명",
+    "intro": "Java와 Spring Boot를 중심으로 MSA, Docker 등 백엔드 심화 기술을 학습하는 단기 집중 부트캠프입니다.",
+
+    "recommendFor": [
+      "Java 백엔드를 심화 학습하고 싶은 분",
+      "Spring Boot 프로젝트 경험이 필요한 분",
+      "MSA와 Docker에 관심 있는 분",
+      "단기간에 백엔드 역량을 높이고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "내일배움캠프",
+      "desc": "취업 중심의 실무 프로젝트형 개발 교육을 제공하는 온라인 부트캠프입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://nbcamp.spartaclub.kr/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_java.svg",
+        "title": "Java",
+        "desc": "객체지향 백엔드 개발"
+      },
+      {
+        "icon": "/image/course/ic_SpringBoot.svg",
+        "title": "Spring Boot",
+        "desc": "REST API 서버 구축"
+      },
+      {
+        "icon": "/image/course/ic_msa.svg",
+        "title": "MSA",
+        "desc": "마이크로서비스 구조 이해"
+      },
+      {
+        "icon": "/image/course/ic_docker.svg",
+        "title": "Docker",
+        "desc": "컨테이너 기반 실행 환경"
+      }
+    ],
+
+    "relatedTags": ["Java", "SpringBoot", "MSA", "Docker"]
+  },
+  {
+    "id": 23,
+    "category": "백엔드",
+    "academy": "부산디지털혁신아카데미",
+    "title": "Claude를 활용한 웹서비스 아키텍처 개발 과정",
+    "status": "모집중",
+    "deadline": "2026-06-23",
+    "period": "4.5개월",
+    "type": "온라인",
+    "location": "-",
+    "price": "무료",
+    "tags": ["SpringBoot", "Claude", "백엔드개발"],
+    "thumbnail": "/image/Backend/img8.jpg",
+    "shortDesc": "Claude와 Spring Boot를 활용해 웹서비스 아키텍처 설계와 서버 개발을 경험하는 과정입니다.",
+    "courseLink": "https://bdia.oopy.io/?utm_source=boottent&utm_medium=referral",
+    "capacity": "70명",
+    "currentApplicants": "43명",
+    "intro": "Claude를 활용해 웹서비스 아키텍처를 설계하고 Spring Boot 기반 백엔드 개발 흐름을 학습하는 과정입니다.",
+
+    "recommendFor": [
+      "AI 도구를 활용한 개발에 관심 있는 분",
+      "웹서비스 아키텍처를 배우고 싶은 분",
+      "Spring Boot 백엔드를 익히고 싶은 분",
+      "백엔드 프로젝트 설계를 경험하고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "부산디지털혁신아카데미",
+      "desc": "디지털 전환 시대의 실무형 IT 인재 양성을 위한 교육 과정을 운영하는 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://gridge.co.kr/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_ai.svg",
+        "title": "Claude",
+        "desc": "AI 기반 개발 보조 활용"
+      },
+      {
+        "icon": "/image/course/ic_architecture.svg",
+        "title": "아키텍처",
+        "desc": "웹서비스 구조 설계"
+      },
+      {
+        "icon": "/image/course/ic_SpringBoot.svg",
+        "title": "Spring Boot",
+        "desc": "백엔드 서버 개발"
+      },
+      {
+        "icon": "/image/course/ic_project.svg",
+        "title": "프로젝트",
+        "desc": "서비스 설계와 구현"
+      }
+    ],
+
+    "relatedTags": ["SpringBoot", "Claude", "백엔드개발"]
+  },
+  {
+    "id": 24,
+    "category": "백엔드",
+    "academy": "프로그래머스",
+    "title": "백엔드 단기심화 7기",
+    "status": "모집중",
+    "deadline": "2026-06-23",
+    "period": "2개월",
+    "type": "오프라인 (서울)",
+    "location": "서울",
+    "price": "30만원",
+    "tags": ["MSA", "CI/CD", "Spring", "Kubernetes"],
+    "thumbnail": "/image/Backend/img9.jpg",
+    "shortDesc": "MSA, CI/CD, Kubernetes를 활용한 실무형 백엔드 엔지니어링 심화 과정입니다.",
+    "courseLink": "https://school.programmers.co.kr/learn/courses/25997/25997-7%EA%B8%B0-k-digital-training-%EC%8B%AC%ED%99%94-spring-ai%EC%99%80-msa%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C?utm_campaign=school_25997_noti&utm_content=25997_poster&utm_medium=community&utm_source=boottent",
+    "capacity": "50명",
+    "currentApplicants": "32명",
+    "intro": "MSA, CI/CD, Spring, Kubernetes를 활용하여 백엔드 엔지니어링 실무 흐름을 학습하는 단기 심화 과정입니다.",
+
+    "recommendFor": [
+      "백엔드 심화 기술을 배우고 싶은 분",
+      "MSA와 Kubernetes에 관심 있는 분",
+      "CI/CD 배포 흐름을 익히고 싶은 분",
+      "실무형 백엔드 아키텍처를 경험하고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "프로그래머스",
+      "desc": "개발자 성장과 취업을 위한 실무 중심 교육과 코딩테스트 학습을 제공하는 플랫폼입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://programmers.co.kr/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_msa.svg",
+        "title": "MSA",
+        "desc": "마이크로서비스 설계"
+      },
+      {
+        "icon": "/image/course/ic_cicd.svg",
+        "title": "CI/CD",
+        "desc": "자동화 배포 파이프라인"
+      },
+      {
+        "icon": "/image/course/ic_SpringBoot.svg",
+        "title": "Spring",
+        "desc": "백엔드 애플리케이션 개발"
+      },
+      {
+        "icon": "/image/course/ic_kubernetes.svg",
+        "title": "Kubernetes",
+        "desc": "컨테이너 오케스트레이션"
+      }
+    ],
+
+    "relatedTags": ["MSA", "CI/CD", "Spring", "Kubernetes"]
+  },
+  {
+    "id": 25,
+    "category": "백엔드",
+    "academy": "코리아아이티아카데미 대구",
+    "title": "AI 활용 소프트웨어 개발 및 응용 AI 활용 소프트웨어 개발자 양성과정",
+    "status": "모집중",
+    "deadline": "2026-06-26",
+    "period": "6.5개월",
+    "type": "오프라인 (대구)",
+    "location": "대구",
+    "price": "40만원",
+    "tags": ["Java", "Python", "SQL", "AI"],
+    "thumbnail": "/image/Backend/img10.jpg",
+    "shortDesc": "Java, Python, SQL을 기반으로 AI 활용 소프트웨어 개발 역량을 키우는 과정입니다.",
+    "courseLink": "http://daegu-itacademy.com/2025/ncs/schedule_view.asp?seq=88&utm_source=boottent&utm_medium=referral",
+    "capacity": "60명",
+    "currentApplicants": "36명",
+    "intro": "Java, Python, SQL, AI 기술을 활용하여 소프트웨어 개발과 응용 AI 서비스 구현을 함께 학습하는 과정입니다.",
+
+    "recommendFor": [
+      "백엔드와 AI를 함께 배우고 싶은 분",
+      "Java와 Python을 모두 활용하고 싶은 분",
+      "SQL 기반 데이터 처리를 배우고 싶은 분",
+      "응용 소프트웨어 개발자를 준비하는 분"
+    ],
+
+    "academyInfo": {
+      "name": "코리아아이티아카데미 대구",
+      "desc": "지역 기반 IT 실무 교육과 개발자 취업 과정을 운영하는 교육 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "http://daegu-itacademy.com/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_java.svg",
+        "title": "Java",
+        "desc": "응용 소프트웨어 개발"
+      },
+      {
+        "icon": "/image/course/ic_python.svg",
+        "title": "Python",
+        "desc": "데이터 처리와 AI 활용"
+      },
+      {
+        "icon": "/image/course/ic_db.svg",
+        "title": "SQL",
+        "desc": "데이터베이스 설계와 조회"
+      },
+      {
+        "icon": "/image/course/ic_ai.svg",
+        "title": "AI",
+        "desc": "AI 기반 서비스 구현"
+      }
+    ],
+
+    "relatedTags": ["Java", "Python", "SQL", "AI"]
+  },
+  {
+    "id": 26,
+    "category": "백엔드",
+    "academy": "동북권ICT",
+    "title": "취업까지 직행하는 백엔드 과정",
+    "status": "모집마감",
+    "deadline": "2026-05-31",
+    "period": "3.5개월",
+    "type": "온라인",
+    "location": "-",
+    "price": "무료",
+    "tags": ["Node.js", "Express", "JavaScript"],
+    "thumbnail": "/image/Backend/img11.jpg",
+    "shortDesc": "Node.js와 Express를 활용해 백엔드 서버와 데이터베이스 연동을 학습하는 과정입니다.",
+    "courseLink": "https://www.inflearn.com/pages/ict?utm_source=boottent&utm_medium=referral",
+    "capacity": "80명",
+    "currentApplicants": "80명",
+    "intro": "Node.js와 Express를 활용해 백엔드 서버를 구축하고 MySQL과 연동하는 과정을 학습합니다. 취업에 필요한 백엔드 기본기를 프로젝트 중심으로 익힐 수 있습니다.",
+
+    "recommendFor": [
+      "Node.js 백엔드를 배우고 싶은 분",
+      "Express 서버 개발을 시작하는 분",
+      "MySQL 데이터베이스 연동을 배우고 싶은 분",
+      "JavaScript 기반 풀스택 개발에 관심 있는 분"
+    ],
+
+    "academyInfo": {
+      "name": "동북권ICT",
+      "desc": "ICT 분야 실무 인재 양성을 위한 개발 교육 과정을 운영하는 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://ictcog.or.kr/?utm_source=boottent&utm_medium=referral"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_node.svg",
+        "title": "Node.js",
+        "desc": "JavaScript 기반 서버 개발"
+      },
+      {
+        "icon": "/image/course/ic_express.svg",
+        "title": "Express",
+        "desc": "API 서버 구축"
+      },
+      {
+        "icon": "/image/course/ic_js.svg",
+        "title": "JavaScript",
+        "desc": "서버 로직 작성"
+      },
+      {
+        "icon": "/image/course/ic_mysql.svg",
+        "title": "MySQL",
+        "desc": "데이터 저장과 관리"
+      }
+    ],
+
+    "relatedTags": ["Node.js", "Express", "JavaScript", "MySQL"]
+  },
+  {
+    "id": 27,
+    "category": "백엔드",
+    "academy": "프로그래머스",
+    "title": "백엔드 엔지니어링 11기",
+    "status": "모집마감",
+    "deadline": "2026-05-26",
+    "period": "5개월",
+    "type": "온라인",
+    "location": "-",
+    "price": "50만원",
+    "tags": ["Java", "Spring", "Kotlin", "Docker"],
+    "thumbnail": "/image/Backend/img12.jpg",
+    "shortDesc": "Java, Spring, Kotlin, Docker를 활용한 백엔드 엔지니어링 핵심 기술 과정입니다.",
+    "courseLink": "https://school.programmers.co.kr/learn/courses/26030/26030-12%EA%B8%B0-k-digital-training-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EA%B8%B0%EB%B0%98-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81",
+    "capacity": "90명",
+    "currentApplicants": "90명",
+    "intro": "Java, Spring, Kotlin, Docker를 활용하여 백엔드 엔지니어링의 핵심 역량을 학습하는 과정입니다.",
+
+    "recommendFor": [
+      "백엔드 엔지니어를 목표로 하는 분",
+      "Java와 Kotlin을 함께 배우고 싶은 분",
+      "Spring 기반 서버 개발을 심화하고 싶은 분",
+      "Docker 기반 개발 환경을 경험하고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "프로그래머스",
+      "desc": "개발자 성장과 취업을 위한 실무 중심 교육과 코딩테스트 학습을 제공하는 플랫폼입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://programmers.co.kr/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_java.svg",
+        "title": "Java",
+        "desc": "객체지향 서버 개발"
+      },
+      {
+        "icon": "/image/course/ic_SpringBoot.svg",
+        "title": "Spring",
+        "desc": "백엔드 프레임워크 활용"
+      },
+      {
+        "icon": "/image/course/ic_kotlin.svg",
+        "title": "Kotlin",
+        "desc": "현대적 서버 개발 언어"
+      },
+      {
+        "icon": "/image/course/ic_docker.svg",
+        "title": "Docker",
+        "desc": "컨테이너 개발 환경"
+      }
+    ],
+
+    "relatedTags": ["Java", "Spring", "Kotlin", "Docker"]
+  },
+  {
+    "id": 28,
+    "category": "백엔드",
+    "academy": "내일배움캠프",
+    "title": "백엔드 부트캠프(Spring) 5기",
+    "status": "모집마감",
+    "deadline": "2026-05-26",
+    "period": "6개월",
+    "type": "온라인",
+    "location": "-",
+    "price": "60만원",
+    "tags": ["Spring", "Java", "JPA", "SpringBoot"],
+    "thumbnail": "/image/Backend/img13.jpg",
+    "shortDesc": "Spring Boot와 JPA를 활용해 실무형 백엔드 서버 개발을 학습하는 부트캠프입니다.",
+    "courseLink": "https://nbcamp.spartaclub.kr/spring?utm_source=boottent&utm_medium=referral",
+    "capacity": "100명",
+    "currentApplicants": "100명",
+    "intro": "Spring 기반 백엔드 부트캠프 과정으로 Java, JPA, Spring Boot를 활용한 서버 개발과 데이터 처리 흐름을 학습합니다.",
+
+    "recommendFor": [
+      "Spring 백엔드를 체계적으로 배우고 싶은 분",
+      "Java 기반 서버 개발을 준비하는 분",
+      "JPA 데이터 처리 방식을 익히고 싶은 분",
+      "취업용 백엔드 프로젝트가 필요한 분"
+    ],
+
+    "academyInfo": {
+      "name": "내일배움캠프",
+      "desc": "취업 중심의 실무 프로젝트형 개발 교육을 제공하는 온라인 부트캠프입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://nbcamp.spartaclub.kr/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_SpringBoot.svg",
+        "title": "Spring",
+        "desc": "서버 애플리케이션 개발"
+      },
+      {
+        "icon": "/image/course/ic_java.svg",
+        "title": "Java",
+        "desc": "백엔드 핵심 언어"
+      },
+      {
+        "icon": "/image/course/ic_JPA.svg",
+        "title": "JPA",
+        "desc": "객체 관계 매핑"
+      },
+      {
+        "icon": "/image/course/ic_springboot.svg",
+        "title": "SpringBoot",
+        "desc": "REST API 서버 구축"
+      }
+    ],
+
+    "relatedTags": ["Spring", "Java", "JPA", "SpringBoot"]
+  },
+  {
+    "id": 29,
+    "category": "백엔드",
+    "academy": "딩코딩코",
+    "title": "백엔드 취업 부트캠프 1기",
+    "status": "모집마감",
+    "deadline": "2026-05-23",
+    "period": "3개월",
+    "type": "오프라인 (서울 · 경기)",
+    "location": "서울 · 경기",
+    "price": "98만원",
+    "tags": ["Java", "Spring", "Docker"],
+    "thumbnail": "/image/Backend/img14.jpg",
+    "shortDesc": "Java와 Spring 기반 프로젝트를 통해 백엔드 취업 역량을 강화하는 과정입니다.",
+    "courseLink": "https://dingcoding-bootcamp.vercel.app/?utm_source=boottent&utm_medium=referral",
+
+    "capacity": "70명",
+    "currentApplicants": "70명",
+    "intro": "Java, Spring, Docker를 활용하여 백엔드 취업에 필요한 실무 프로젝트를 경험하는 부트캠프 과정입니다.",
+
+    "recommendFor": [
+      "백엔드 개발자로 취업을 준비하는 분",
+      "Java와 Spring 프로젝트를 만들고 싶은 분",
+      "Docker 기반 배포 흐름을 배우고 싶은 분",
+      "실무 협업 프로젝트 경험이 필요한 분"
+    ],
+
+    "academyInfo": {
+      "name": "딩코딩코",
+      "desc": "개발자 취업과 실무 프로젝트 경험을 중심으로 교육을 제공하는 부트캠프입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://dingcodingco.vercel.app/#hero"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_java.svg",
+        "title": "Java",
+        "desc": "백엔드 개발 핵심 문법"
+      },
+      {
+        "icon": "/image/course/ic_SpringBoot.svg",
+        "title": "Spring",
+        "desc": "웹 서버와 API 개발"
+      },
+      {
+        "icon": "/image/course/ic_docker.svg",
+        "title": "Docker",
+        "desc": "배포 환경 구성"
+      },
+      {
+        "icon": "/image/course/ic_project.svg",
+        "title": "취업 프로젝트",
+        "desc": "실무형 포트폴리오 제작"
+      }
+    ],
+
+    "relatedTags": ["Java", "Spring", "Docker"]
+  },
+  {
+    "id": 30,
+    "category": "백엔드",
+    "academy": "멋쟁이사자처럼",
+    "title": "백엔드 Java 부트캠프 25기",
+    "status": "모집마감",
+    "deadline": "2026-05-12",
+    "period": "6개월",
+    "type": "온라인",
+    "location": "-",
+    "price": "50만원",
+    "tags": ["Java", "Git", "SpringBoot", "Docker"],
+    "thumbnail": "/image/Backend/img15.jpg",
+    "shortDesc": "Java, Spring Boot, Docker를 활용해 백엔드 개발 전 과정을 학습하는 부트캠프입니다.",
+    "courseLink": "https://bootcamp.likelion.net/school/kdt-backendj-26th?utm_source=boottent&utm_medium=referral",
+    "capacity": "100명",
+    "currentApplicants": "100명",
+    "intro": "Java와 Spring Boot를 활용해 백엔드 서버 개발 전 과정을 학습하는 부트캠프 과정입니다. Git과 Docker를 함께 활용해 협업과 배포 흐름까지 경험할 수 있습니다.",
+
+    "recommendFor": [
+      "Java 백엔드 개발자를 목표로 하는 분",
+      "Spring Boot 서버 개발을 배우고 싶은 분",
+      "Git 협업과 Docker 배포를 경험하고 싶은 분",
+      "백엔드 포트폴리오를 만들고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "멋쟁이사자처럼",
+      "desc": "실무 중심의 개발자 교육을 제공하는 대표적인 IT 교육 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://bootcamp.likelion.net/?utm_source=boottent&utm_medium=referral"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_java.svg",
+        "title": "Java",
+        "desc": "객체지향 백엔드 개발"
+      },
+      {
+        "icon": "/image/course/ic_git.svg",
+        "title": "Git",
+        "desc": "협업 및 버전 관리"
+      },
+      {
+        "icon": "/image/course/ic_SpringBoot.svg",
+        "title": "SpringBoot",
+        "desc": "REST API 서버 개발"
+      },
+      {
+        "icon": "/image/course/ic_docker.svg",
+        "title": "Docker",
+        "desc": "컨테이너 배포 환경"
+      }
+    ],
+
+    "relatedTags": ["Java", "Git", "SpringBoot", "Docker"]
+  },
+  {
+    "id": 31,
+    "category": "모바일 개발",
+    "academy": "이젠아카데미DX교육센터",
+    "title": "파이썬 기반 생성형 AI 챗봇 설계부터 배포까지",
+    "status": "모집중",
+    "deadline": "2026-06-09",
+    "period": "4주",
+    "type": "온라인",
+    "location": "-",
+    "price": "37,510원",
+    "tags": ["Python", "AI", "챗봇", "백터DB"],
+    "thumbnail": "/image/Mobile/img1.jpg",
+    "shortDesc": "Python과 생성형 AI를 활용해 챗봇 설계부터 벡터DB 연동, 서비스 배포까지 학습하는 AI 앱 개발 과정입니다.",
+    "courseLink": "https://ecrew.co.kr/class/ai-chatbot-development-python",
+    "capacity": "90명",
+    "currentApplicants": "58명",
+    "intro": "Python을 기반으로 생성형 AI 챗봇을 설계하고 배포하는 과정입니다. AI 서비스 구조, 벡터DB 활용, 챗봇 구현 흐름을 실습 중심으로 학습할 수 있습니다.",
+
+    "recommendFor": [
+      "AI 챗봇 서비스를 만들어보고 싶은 분",
+      "Python 기반 AI 개발에 관심 있는 분",
+      "생성형 AI 활용 프로젝트가 필요한 분",
+      "서비스 배포 흐름을 경험하고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "이젠아카데미DX교육센터",
+      "desc": "디지털 전환 시대에 맞춘 AI, UX/UI, 웹 개발 실무 교육을 제공하는 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://ecrew.co.kr/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_python.svg",
+        "title": "Python",
+        "desc": "AI 서비스 개발 기초 문법"
+      },
+      {
+        "icon": "/image/course/ic_ai.svg",
+        "title": "생성형 AI",
+        "desc": "챗봇 서비스 구조 이해"
+      },
+      {
+        "icon": "/image/course/ic_chatbot.svg",
+        "title": "챗봇",
+        "desc": "대화형 서비스 구현"
+      },
+      {
+        "icon": "/image/course/ic_db.svg",
+        "title": "벡터DB",
+        "desc": "AI 검색과 데이터 저장"
+      }
+    ],
+
+    "relatedTags": ["Python", "AI", "챗봇", "벡터DB"]
+  },
+  {
+    "id": 32,
+    "category": "모바일 개발",
+    "academy": "연세IT미래교육원",
+    "title": "노코드 AI서비스 개발자 2기",
+    "status": "모집중",
+    "deadline": "2026-06-10",
+    "period": "2개월",
+    "type": "오프라인 (경기)",
+    "location": "경기",
+    "price": "30만원",
+    "tags": ["Figma", "Flowise", "RAG", "Dart"],
+    "thumbnail": "/image/Mobile/img2.jpg",
+    "shortDesc": "노코드 도구와 AI 서비스를 활용해 모바일 서비스 기획부터 프로토타입 제작까지 경험하는 과정입니다.",
+    "courseLink": "https://www.ysedu.or.kr/p/?j=295&utm_source=boottent&utm_medium=referral",
+    "capacity": "70명",
+    "currentApplicants": "43명",
+    "intro": "노코드 도구와 AI 서비스를 활용해 앱 서비스 기획부터 구현까지 경험하는 과정입니다. Figma, Flowise, RAG, Dart를 활용해 빠르게 프로토타입을 제작할 수 있습니다.",
+
+    "recommendFor": [
+      "노코드 AI 서비스를 만들어보고 싶은 분",
+      "Figma 기반 앱 화면 설계를 배우고 싶은 분",
+      "RAG와 AI 서비스 흐름을 이해하고 싶은 분",
+      "앱 서비스 프로토타입을 제작하고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "연세IT미래교육원",
+      "desc": "IT 실무 교육과 디지털 서비스 개발 역량 강화를 위한 교육 과정을 운영하는 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://www.ysedu.or.kr/?utm_source=boottent&utm_medium=referral"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_figma.svg",
+        "title": "Figma",
+        "desc": "앱 화면 설계와 프로토타입"
+      },
+      {
+        "icon": "/image/course/ic_ai.svg",
+        "title": "Flowise",
+        "desc": "노코드 AI 서비스 구성"
+      },
+      {
+        "icon": "/image/course/ic_rag.svg",
+        "title": "RAG",
+        "desc": "검색 기반 AI 응답 구조"
+      },
+      {
+        "icon": "/image/course/ic_dart.svg",
+        "title": "Dart",
+        "desc": "앱 개발 언어 기초"
+      }
+    ],
+
+    "relatedTags": ["Figma", "Flowise", "RAG", "Dart"]
+  },
+  {
+    "id": 33,
+    "category": "모바일 개발",
+    "academy": "한국전자진흥협회",
+    "title": "풀스택 AI 앱 개발자 양성과정 1기",
+    "status": "모집중",
+    "deadline": "2026-06-25",
+    "period": "6.5개월",
+    "type": "오프라인 (서울)",
+    "location": "서울",
+    "price": "무료",
+    "tags": ["프론트엔드", "백엔드", "AWS", "API"],
+    "thumbnail": "/image/Mobile/img3.jpg",
+    "shortDesc": "프론트엔드, 백엔드, AWS를 함께 학습하며 AI 기반 앱 서비스를 개발하는 풀스택 과정입니다.",
+    "courseLink": "https://edu.rapa.or.kr/recruitment/28942?utm_source=boottent&utm_medium=referral",
+    "capacity": "60명",
+    "currentApplicants": "38명",
+    "intro": "프론트엔드, 백엔드, AWS, API를 함께 학습하며 풀스택 AI 앱 개발 흐름을 경험하는 과정입니다. 앱 서비스 기획부터 서버 연동과 배포까지 실무형 프로젝트로 학습합니다.",
+
+    "recommendFor": [
+      "풀스택 앱 개발을 배우고 싶은 분",
+      "AI 기반 앱 서비스를 만들고 싶은 분",
+      "프론트엔드와 백엔드를 함께 익히고 싶은 분",
+      "AWS 배포와 API 연동을 경험하고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "한국전자진흥협회",
+      "desc": "전자·IT 분야 전문 인재 양성을 위한 실무 중심 교육 과정을 운영하는 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://rapa.or.kr/ft/main.do?utm_source=boottent&utm_medium=referral"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_frontend.svg",
+        "title": "프론트엔드",
+        "desc": "앱 화면과 사용자 인터페이스 구현"
+      },
+      {
+        "icon": "/image/course/ic_frontend.svg",
+        "title": "백엔드",
+        "desc": "서버와 데이터 처리 구조 학습"
+      },
+      {
+        "icon": "/image/course/ic_aws.svg",
+        "title": "AWS",
+        "desc": "클라우드 배포 환경 구성"
+      },
+      {
+        "icon": "/image/course/ic_api.svg",
+        "title": "API",
+        "desc": "앱과 서버 데이터 연동"
+      }
+    ],
+
+    "relatedTags": ["프론트엔드", "백엔드", "AWS", "API"]
+  },
+  {
+    "id": 34,
+    "category": "모바일 개발",
+    "academy": "메가스터디IT아카데미",
+    "title": "빅데이터 기반 AI활용 앱&웹 개발자 취업캠프 6회차",
+    "status": "모집마감",
+    "deadline": "2026-04-20",
+    "period": "6.5개월",
+    "type": "오프라인 (서울)",
+    "location": "서울",
+    "price": "40만원",
+    "tags": ["Flutter", "FastAPI", "SQL", "AI"],
+    "thumbnail": "/image/Mobile/img4.jpg",
+    "shortDesc": "Flutter와 FastAPI를 활용해 앱과 웹 서비스를 개발하고 AI 기능을 접목하는 실무 과정입니다.",
+    "courseLink": "https://gn9.megaitlab.com/doc/national_common_view?idx=7236&utm_source=boottent&utm_medium=referral",
+    "capacity": "60명",
+    "currentApplicants": "60명",
+    "intro": "Flutter와 FastAPI를 활용해 앱과 웹 서비스를 함께 개발하는 취업 캠프 과정입니다. SQL과 AI 활용 기술을 접목하여 데이터 기반 앱 서비스를 제작할 수 있습니다.",
+
+    "recommendFor": [
+      "Flutter 앱 개발을 배우고 싶은 분",
+      "FastAPI 기반 서버 연동을 경험하고 싶은 분",
+      "AI와 빅데이터 활용 프로젝트가 필요한 분",
+      "앱&웹 개발자로 취업을 준비하는 분"
+    ],
+
+    "academyInfo": {
+      "name": "메가스터디IT아카데미",
+      "desc": "IT 취업 교육과 실무 프로젝트 중심 개발 과정을 운영하는 교육 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://gn9.megaitlab.com/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_flutter.svg",
+        "title": "Flutter",
+        "desc": "크로스플랫폼 앱 화면 개발"
+      },
+      {
+        "icon": "/image/course/ic_api.svg",
+        "title": "FastAPI",
+        "desc": "앱 서버와 API 구축"
+      },
+      {
+        "icon": "/image/course/ic_db.svg",
+        "title": "SQL",
+        "desc": "데이터 저장과 조회"
+      },
+      {
+        "icon": "/image/course/ic_ai.svg",
+        "title": "AI",
+        "desc": "AI 활용 서비스 기능 구현"
+      }
+    ],
+
+    "relatedTags": ["Flutter", "FastAPI", "SQL", "AI"]
+  },
+  {
+    "id": 35,
+    "category": "모바일 개발",
+    "academy": "메가스터디IT아카데미",
+    "title": "빅데이터 기반 AI활용 앱&웹 개발자 취업캠프 5회차",
+    "status": "모집마감",
+    "deadline": "2026-03-03",
+    "period": "6.5개월",
+    "type": "오프라인 (서울)",
+    "location": "서울",
+    "price": "40만원",
+    "tags": ["Flutter", "FastAPI", "SQL", "AI"],
+    "thumbnail": "/image/Mobile/img5.jpg",
+    "shortDesc": "빅데이터와 AI 기술을 활용해 Flutter 기반 앱 서비스를 구현하는 취업 연계 과정입니다.",
+    "courseLink": "https://gn9.megaitlab.com/doc/national_common_view?idx=7236&utm_source=boottent&utm_medium=referral",
+
+    "capacity": "60명",
+    "currentApplicants": "60명",
+    "intro": "빅데이터와 AI 기술을 활용해 앱과 웹 서비스를 개발하는 과정입니다. Flutter, FastAPI, SQL을 기반으로 데이터 중심 서비스를 구현합니다.",
+
+    "recommendFor": [
+      "AI 앱&웹 서비스를 만들고 싶은 분",
+      "Flutter와 서버 연동을 배우고 싶은 분",
+      "SQL 기반 데이터 처리를 익히고 싶은 분",
+      "취업용 프로젝트가 필요한 분"
+    ],
+
+    "academyInfo": {
+      "name": "메가스터디IT아카데미",
+      "desc": "IT 취업 교육과 실무 프로젝트 중심 개발 과정을 운영하는 교육 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://gn9.megaitlab.com/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_flutter.svg",
+        "title": "Flutter",
+        "desc": "앱 UI와 화면 흐름 구현"
+      },
+      {
+        "icon": "/image/course/ic_api.svg",
+        "title": "FastAPI",
+        "desc": "백엔드 서버와 API 연동"
+      },
+      {
+        "icon": "/image/course/ic_db.svg",
+        "title": "SQL",
+        "desc": "데이터베이스 설계와 활용"
+      },
+      {
+        "icon": "/image/course/ic_ai.svg",
+        "title": "AI",
+        "desc": "인공지능 기능 적용"
+      }
+    ],
+
+    "relatedTags": ["Flutter", "FastAPI", "SQL", "AI"]
+  },
+  {
+    "id": 36,
+    "category": "모바일 개발",
+    "academy": "연세IT미래교육원",
+    "title": "노코드 AI서비스 개발자 1기",
+    "status": "모집마감",
+    "deadline": "2026-02-18",
+    "period": "2개월",
+    "type": "오프라인 (경기)",
+    "location": "경기",
+    "price": "30만원",
+    "tags": ["UI/UX", "Figma", "LLM", "API"],
+    "thumbnail": "/image/Mobile/img6.jpg",
+    "shortDesc": "Figma와 LLM을 활용해 노코드 기반 AI 서비스를 기획하고 구현하는 입문 과정입니다.",
+    "courseLink": "https://www.ysedu.or.kr/p/?j=232&edu_code=VmtjeGQxUnJOVkpRVkRBOStN&utm_source=boottent&utm_medium=referral",
+    "capacity": "70명",
+    "currentApplicants": "70명",
+    "intro": "노코드 도구와 LLM, API를 활용해 AI 서비스를 빠르게 기획하고 구현하는 과정입니다. UI/UX 설계와 Figma 기반 프로토타입 제작도 함께 학습합니다.",
+
+    "recommendFor": [
+      "노코드 AI 서비스 제작에 관심 있는 분",
+      "UI/UX와 Figma를 함께 배우고 싶은 분",
+      "LLM과 API 활용 흐름을 이해하고 싶은 분",
+      "개발 없이 빠른 프로토타입을 만들고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "연세IT미래교육원",
+      "desc": "IT 실무 교육과 디지털 서비스 개발 역량 강화를 위한 교육 과정을 운영하는 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://www.ysedu.or.kr/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_design.svg",
+        "title": "UI/UX",
+        "desc": "사용자 흐름과 화면 설계"
+      },
+      {
+        "icon": "/image/course/ic_figma.svg",
+        "title": "Figma",
+        "desc": "서비스 화면 프로토타입 제작"
+      },
+      {
+        "icon": "/image/course/ic_ai.svg",
+        "title": "LLM",
+        "desc": "대형 언어모델 활용 이해"
+      },
+      {
+        "icon": "/image/course/ic_api.svg",
+        "title": "API",
+        "desc": "서비스 기능 연동 구조 학습"
+      }
+    ],
+
+    "relatedTags": ["UI/UX", "Figma", "LLM", "API"]
+  },
+  {
+    "id": 37,
+    "category": "모바일 개발",
+    "academy": "원밀리언라인즈코딩",
+    "title": "안드로이드 부트캠프",
+    "status": "모집마감",
+    "deadline": "2025-12-12",
+    "period": "5개월",
+    "type": "온라인",
+    "location": "-",
+    "price": "660만원",
+    "tags": ["Kotlin", "Android", "Firebase"],
+    "thumbnail": "/image/Mobile/img7.jpg",
+    "shortDesc": "Kotlin과 Android를 활용해 모바일 앱 개발부터 Firebase 연동까지 학습하는 부트캠프입니다.",
+    "courseLink": "https://1millionlines.com/?utm_source=boottent&utm_medium=referral",
+    "capacity": "50명",
+    "currentApplicants": "50명",
+    "intro": "Kotlin과 Android, Compose, Firebase를 활용해 안드로이드 앱 개발 전반을 학습하는 부트캠프입니다. 앱 화면 구성부터 데이터 연동까지 실무형 프로젝트로 경험합니다.",
+
+    "recommendFor": [
+      "안드로이드 앱 개발자를 목표로 하는 분",
+      "Kotlin을 배우고 싶은 분",
+      "Firebase 기반 앱 서비스를 만들고 싶은 분",
+      "앱 포트폴리오를 제작하고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "원밀리언라인즈코딩",
+      "desc": "앱 개발과 실무 프로젝트 중심의 개발자 교육을 제공하는 온라인 교육 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://1millionlines.com/?utm_source=boottent&utm_medium=referral"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_kotlin.svg",
+        "title": "Kotlin",
+        "desc": "안드로이드 개발 핵심 언어"
+      },
+      {
+        "icon": "/image/course/ic_android.svg",
+        "title": "Android",
+        "desc": "앱 구조와 화면 흐름 이해"
+      },
+      {
+        "icon": "/image/course/ic_compose.svg",
+        "title": "Compose",
+        "desc": "선언형 UI 개발"
+      },
+      {
+        "icon": "/image/course/ic_firebase.svg",
+        "title": "Firebase",
+        "desc": "인증과 데이터 연동"
+      }
+    ],
+
+    "relatedTags": ["Kotlin", "Android", "Compose", "Firebase"]
+  },
+  {
+    "id": 38,
+    "category": "모바일 개발",
+    "academy": "부트텐트 X F-Lab",
+    "title": "개발·테크 커리어 세미나 + 1:1멘토링",
+    "status": "모집중",
+    "deadline": "2026-06-17",
+    "period": "하루",
+    "type": "온라인",
+    "location": "-",
+    "price": "무료",
+    "tags": ["이력서작성", "커리어멘토링"],
+    "thumbnail": "/image/Mobile/img8.png",
+    "shortDesc": "개발자 취업을 위한 이력서 작성, 면접 준비, 커리어 설계를 지원하는 멘토링 과정입니다.",
+    "courseLink": "https://boottent.com/form/20260430152541LpAGQ?utm_source=boottent&utm_medium=referral",
+    "capacity": "100명",
+    "currentApplicants": "100명",
+    "intro": "개발·테크 커리어 세미나와 1:1 멘토링을 통해 이력서 작성, 커리어 방향 설정, 개발 직무 이해를 돕는 단기 과정입니다.",
+
+    "recommendFor": [
+      "개발 커리어 방향을 고민하는 분",
+      "이력서 작성 피드백이 필요한 분",
+      "테크 직무 정보를 얻고 싶은 분",
+      "멘토링을 통해 취업 전략을 세우고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "부트텐트 X F-Lab",
+      "desc": "개발자 커리어 성장과 멘토링 중심 교육 콘텐츠를 제공하는 플랫폼입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://boottent.com/?utm_source=boottent&utm_medium=referral"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_resume.svg",
+        "title": "이력서 작성",
+        "desc": "개발자 이력서 구성법"
+      },
+      {
+        "icon": "/image/course/ic_career.svg",
+        "title": "커리어 멘토링",
+        "desc": "직무 방향과 취업 전략"
+      },
+      {
+        "icon": "/image/course/ic_interview.svg",
+        "title": "면접 준비",
+        "desc": "기술 면접 준비 방향"
+      },
+      {
+        "icon": "/image/course/ic_network.svg",
+        "title": "테크 세미나",
+        "desc": "개발 직무와 시장 이해"
+      }
+    ],
+
+    "relatedTags": ["이력서작성", "커리어멘토링", "개발커리어"]
+  },
+  {
+    "id": 39,
+    "category": "모바일 개발",
+    "academy": "내일배움캠프",
+    "title": "Flutter 앱개발 부트캠프 9기",
+    "status": "모집마감",
+    "deadline": "2025-11-24",
+    "period": "4.5개월",
+    "type": "온라인",
+    "location": "-",
+    "price": "무료",
+    "tags": ["Flutter", "Dart", "Firebase", "API"],
+    "thumbnail": "/image/Mobile/img9.jpg",
+    "shortDesc": "Flutter와 Dart를 활용해 크로스플랫폼 앱을 개발하고 실제 서비스 배포를 경험하는 과정입니다.",
+    "courseLink": "https://nbcamp.spartaclub.kr/android?utm_source=boottent&utm_medium=display&utm_campaign=nbc&utm_content=flutter_curri&utm_term=250731&",
+    "capacity": "90명",
+    "currentApplicants": "90명",
+    "intro": "Flutter와 Dart를 활용해 크로스플랫폼 앱을 개발하는 부트캠프입니다. Firebase와 API 연동을 통해 실제 서비스형 앱 제작을 경험할 수 있습니다.",
+
+    "recommendFor": [
+      "Flutter 앱 개발을 배우고 싶은 분",
+      "Dart 언어를 처음 배우는 분",
+      "Firebase 기반 앱 서비스를 만들고 싶은 분",
+      "앱 개발 포트폴리오가 필요한 분"
+    ],
+
+    "academyInfo": {
+      "name": "내일배움캠프",
+      "desc": "취업 중심의 실무 프로젝트형 개발 교육을 제공하는 온라인 부트캠프입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://nbcamp.spartaclub.kr/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_flutter.svg",
+        "title": "Flutter",
+        "desc": "크로스플랫폼 앱 화면 개발"
+      },
+      {
+        "icon": "/image/course/ic_dart.svg",
+        "title": "Dart",
+        "desc": "Flutter 개발 핵심 언어"
+      },
+      {
+        "icon": "/image/course/ic_firebase.svg",
+        "title": "Firebase",
+        "desc": "인증과 데이터 관리"
+      },
+      {
+        "icon": "/image/course/ic_api.svg",
+        "title": "API",
+        "desc": "외부 서비스 연동"
+      }
+    ],
+
+    "relatedTags": ["Flutter", "Dart", "Firebase", "API"]
+  },
+  {
+    "id": 40,
+    "category": "AI·데이터",
+    "academy": "미래디지털원격평생교육원",
+    "title": "웹크롤링과 ChatGPT API 활용을 위한 파이썬 코딩",
+    "status": "모집중",
+    "deadline": "2026-06-02",
+    "period": "4주",
+    "type": "온라인",
+    "location": "-",
+    "price": "34,000원",
+    "tags": ["Python", "ChatGPT", "웹크롤링"],
+    "thumbnail": "/image/AI/img1.jpg",
+    "shortDesc": "Python과 ChatGPT API를 활용해 웹 크롤링부터 AI 자동화 서비스 구현까지 학습하는 과정입니다.",
+    "courseLink": "https://www.kdedu.co.kr/course/course_view.jsp?id=299&cid=119&ch=course2&utm_source=boottent&utm_medium=referral",
+    "capacity": "100명",
+    "currentApplicants": "66명",
+    "intro": "Python을 활용해 웹 크롤링과 ChatGPT API 연동을 학습하는 과정입니다. 데이터를 수집하고 AI 기능을 적용하여 실무형 자동화 서비스를 구현할 수 있습니다.",
+
+    "recommendFor": [
+      "Python으로 데이터 수집을 배우고 싶은 분",
+      "ChatGPT API 활용에 관심 있는 분",
+      "웹 크롤링 프로젝트를 해보고 싶은 분",
+      "AI 자동화 서비스를 만들어보고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "미래디지털원격평생교육원",
+      "desc": "미래를 생각하고, 미래를 꿈꾸는 미래디지털원격평생교육원",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://www.kdedu.co.kr/main/index.jsp"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_python.svg",
+        "title": "Python",
+        "desc": "데이터 처리와 자동화 기초"
+      },
+      {
+        "icon": "/image/course/ic_ai.svg",
+        "title": "ChatGPT API",
+        "desc": "AI 기능 연동과 응답 처리"
+      },
+      {
+        "icon": "/image/course/ic_db.svg",
+        "title": "웹 크롤링",
+        "desc": "웹 데이터 수집 실습"
+      },
+      {
+        "icon": "/image/course/ic_project.svg",
+        "title": "자동화 프로젝트",
+        "desc": "수집 데이터 기반 AI 기능 구현"
+      }
+    ],
+
+    "relatedTags": ["Python", "ChatGPT", "웹크롤링", "자동화"]
+  },
+  {
+    "id": 41,
+    "category": "AI·데이터",
+    "academy": "인천일보아카데미",
+    "title": "AI와 함께 더 똑똑해지는 두번째 인생 - 중장년의 스마트 혼콘",
+    "status": "모집중",
+    "deadline": "2026-06-02",
+    "period": "4주",
+    "type": "온라인",
+    "location": "-",
+    "price": "19,440원",
+    "tags": ["ChatGPT", "Claude", "Gemini"],
+    "thumbnail": "/image/AI/img2.jpg",
+    "shortDesc": "ChatGPT, Claude, Gemini를 활용해 업무 생산성과 디지털 활용 능력을 높이는 AI 입문 과정입니다.",
+    "courseLink": "https://www.itscampus.co.kr/course/view/AI/1/15",
+    "capacity": "120명",
+    "currentApplicants": "78명",
+    "intro": "ChatGPT, Claude, Gemini 등 생성형 AI 도구를 활용해 일상과 업무 생산성을 높이는 방법을 배우는 과정입니다. 중장년 학습자도 쉽게 따라갈 수 있도록 실습 중심으로 구성되어 있습니다.",
+
+    "recommendFor": [
+      "AI 도구를 처음 사용하는 분",
+      "ChatGPT와 Claude 활용법을 배우고 싶은 분",
+      "업무와 생활에 AI를 적용하고 싶은 분",
+      "쉽게 따라가는 AI 입문 과정을 원하는 분"
+    ],
+
+    "academyInfo": {
+      "name": "인천일보아카데미",
+      "desc": "온라인 기반 실무 교육과 디지털 역량 강화 콘텐츠를 제공하는 교육 플랫폼입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://www.itscampus.co.kr/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_ai.svg",
+        "title": "ChatGPT",
+        "desc": "질문 작성과 결과 활용"
+      },
+      {
+        "icon": "/image/course/ic_claude.svg",
+        "title": "Claude",
+        "desc": "문서 요약과 글쓰기 활용"
+      },
+      {
+        "icon": "/image/course/ic_gemini.svg",
+        "title": "Gemini",
+        "desc": "검색과 생산성 도구 활용"
+      },
+      {
+        "icon": "/image/course/ic_practice.svg",
+        "title": "AI 실습",
+        "desc": "생활과 업무에 바로 적용"
+      }
+    ],
+
+    "relatedTags": ["ChatGPT", "Claude", "Gemini", "AI활용"]
+  },
+  {
+    "id": 42,
+    "category": "AI·데이터",
+    "academy": "SD부트캠프",
+    "title": "입문자를 위한 파이썬 응용 프로젝트 구현하기",
+    "status": "모집중",
+    "deadline": "2026-06-02",
+    "period": "4주",
+    "type": "온라인",
+    "location": "-",
+    "price": "26,000원",
+    "tags": ["Python", "데이터처리", "웹크롤링"],
+    "thumbnail": "/image/AI/img3.jpg",
+    "shortDesc": "Python과 Pandas를 활용해 데이터 처리와 웹 크롤링 프로젝트를 구현하는 실습 중심 과정입니다.",
+    "courseLink": "https://sdboot.com/160?utm_source=boottent&utm_medium=referral",
+
+    "capacity": "100명",
+    "currentApplicants": "62명",
+    "intro": "Python을 활용해 데이터 처리와 웹 크롤링을 실습하며 응용 프로젝트를 구현하는 과정입니다. Pandas 기반 데이터 정리와 분석 흐름을 익힐 수 있습니다.",
+
+    "recommendFor": [
+      "Python 기초 이후 프로젝트를 해보고 싶은 분",
+      "데이터 처리 방법을 배우고 싶은 분",
+      "웹 크롤링을 실습하고 싶은 분",
+      "Pandas 활용법을 익히고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "SD부트캠프",
+      "desc": "입문자도 쉽게 따라갈 수 있는 실무 중심 개발 교육을 제공하는 온라인 교육 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://sdboot.com/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_python.svg",
+        "title": "Python",
+        "desc": "응용 프로젝트 구현"
+      },
+      {
+        "icon": "/image/course/ic_pandas.svg",
+        "title": "Pandas",
+        "desc": "데이터 정리와 처리"
+      },
+      {
+        "icon": "/image/course/ic_data.svg",
+        "title": "데이터 처리",
+        "desc": "분석 전 데이터 가공"
+      },
+      {
+        "icon": "/image/course/ic_db.svg",
+        "title": "웹 크롤링",
+        "desc": "웹 데이터 수집 실습"
+      }
+    ],
+
+    "relatedTags": ["Python", "Pandas", "데이터처리", "웹크롤링"]
+  },
+  {
+    "id": 43,
+    "category": "AI·데이터",
+    "academy": "인천일보아카데미",
+    "title": "코딩초보도 만드는 나만의 AI 어시스턴트(GPT, LangChain)",
+    "status": "모집중",
+    "deadline": "2026-06-02",
+    "period": "4주",
+    "type": "온라인",
+    "location": "-",
+    "price": "20,520원",
+    "tags": ["GPT", "LangChain", "LLM", "RAG"],
+    "thumbnail": "/image/AI/img4.jpg",
+    "shortDesc": "GPT와 LangChain을 활용해 나만의 AI 어시스턴트를 개발하는 생성형 AI 실무 과정입니다.",
+    "courseLink": "https://www.itscampus.co.kr/course/view/ALL/1/16?utm_source=boottent&utm_medium=referral",
+    "capacity": "90명",
+    "currentApplicants": "55명",
+    "intro": "GPT, LangChain, LLM, RAG를 활용해 나만의 AI 어시스턴트를 만드는 과정입니다. 코딩 초보자도 AI 서비스의 기본 구조를 이해하고 간단한 챗봇형 서비스를 구현할 수 있습니다.",
+
+    "recommendFor": [
+      "AI 어시스턴트를 만들어보고 싶은 분",
+      "LangChain과 RAG를 배우고 싶은 분",
+      "LLM 서비스 구조를 이해하고 싶은 분",
+      "코딩 초보자로 AI 프로젝트를 시작하는 분"
+    ],
+
+    "academyInfo": {
+      "name": "인천일보아카데미",
+      "desc": "온라인 기반 실무 교육과 디지털 역량 강화 콘텐츠를 제공하는 교육 플랫폼입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://www.itscampus.co.kr/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_ai.svg",
+        "title": "GPT",
+        "desc": "AI 응답 생성 이해"
+      },
+      {
+        "icon": "/image/course/ic_langchain.svg",
+        "title": "LangChain",
+        "desc": "AI 서비스 흐름 구성"
+      },
+      {
+        "icon": "/image/course/ic_llm.svg",
+        "title": "LLM",
+        "desc": "대형 언어모델 활용"
+      },
+      {
+        "icon": "/image/course/ic_rag.svg",
+        "title": "RAG",
+        "desc": "검색 기반 AI 응답 구현"
+      }
+    ],
+
+    "relatedTags": ["GPT", "LangChain", "LLM", "RAG"]
+  },
+  {
+    "id": 44,
+    "category": "AI·데이터",
+    "academy": "인천일보아카데미",
+    "title": "취향 저격 알고리즘의 비밀! 데이터로 읽는 AI 영화 추천 모델 만들기",
+    "status": "모집중",
+    "deadline": "2026-06-02",
+    "period": "4주",
+    "type": "온라인",
+    "location": "-",
+    "price": "26,400원",
+    "tags": ["AI", "추천시스템", "Python", "Jupyter"],
+    "thumbnail": "/image/AI/img5.jpg",
+    "shortDesc": "Python 기반 영화 추천 시스템을 구현하며 AI 추천 알고리즘의 원리를 학습하는 과정입니다.",
+    "courseLink": "https://www.itscampus.co.kr/course/view/ALL/1/17?utm_source=boottent&utm_medium=referral",
+
+    "capacity": "90명",
+    "currentApplicants": "59명",
+    "intro": "Python과 Jupyter를 활용해 영화 추천 데이터를 분석하고 추천 시스템의 기본 원리를 학습하는 과정입니다. 데이터 기반으로 취향 저격 알고리즘을 이해할 수 있습니다.",
+
+    "recommendFor": [
+      "추천 시스템에 관심 있는 분",
+      "Python 데이터 분석을 배우고 싶은 분",
+      "Jupyter 기반 실습을 해보고 싶은 분",
+      "AI 알고리즘의 기본 흐름을 이해하고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "인천일보아카데미",
+      "desc": "온라인 기반 실무 교육과 디지털 역량 강화 콘텐츠를 제공하는 교육 플랫폼입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://www.itscampus.co.kr/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_ai.svg",
+        "title": "AI",
+        "desc": "추천 알고리즘 기본 이해"
+      },
+      {
+        "icon": "/image/course/ic_recommend.svg",
+        "title": "추천시스템",
+        "desc": "사용자 취향 기반 추천 구조"
+      },
+      {
+        "icon": "/image/course/ic_python.svg",
+        "title": "Python",
+        "desc": "데이터 분석 코드 작성"
+      },
+      {
+        "icon": "/image/course/ic_jupyter.svg",
+        "title": "Jupyter",
+        "desc": "분석 실습 환경 활용"
+      }
+    ],
+
+    "relatedTags": ["AI", "추천시스템", "Python", "Jupyter"]
+  },
+  {
+    "id": 45,
+    "category": "AI·데이터",
+    "academy": "원스펙",
+    "title": "비전공자도 쉽게 배우는 품질관리 AI 데이터분석 실습",
+    "status": "모집마감",
+    "deadline": "2026-06-02",
+    "period": "4주",
+    "type": "온라인",
+    "location": "-",
+    "price": "37,510원",
+    "tags": ["Python", "NumPy", "Pandas"],
+    "thumbnail": "/image/AI/img6.jpg",
+    "shortDesc": "Python, NumPy, Pandas를 활용해 품질관리 데이터를 분석하는 데이터분석 입문 과정입니다.",
+    "courseLink": "https://winspec.co.kr/lectures/1971?utm_source=boottent&utm_medium=content&utm_campaign=k_digital_QM_boottent_content_250930&utm_term=winspec",
+
+    "capacity": "80명",
+    "currentApplicants": "80명",
+    "intro": "품질관리 데이터를 활용해 Python 기반 AI 데이터분석 실습을 진행하는 과정입니다. NumPy와 Pandas를 사용해 데이터를 정리하고 분석하는 기본기를 익힐 수 있습니다.",
+
+    "recommendFor": [
+      "데이터분석을 처음 배우는 분",
+      "Python, NumPy, Pandas를 익히고 싶은 분",
+      "품질관리 데이터 활용에 관심 있는 분",
+      "실무 데이터 분석 흐름을 경험하고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "원스펙",
+      "desc": "실무 데이터와 AI 활용 교육을 제공하는 온라인 교육 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://winspec.co.kr/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_python.svg",
+        "title": "Python",
+        "desc": "데이터 분석 기초"
+      },
+      {
+        "icon": "/image/course/ic_numpy.svg",
+        "title": "NumPy",
+        "desc": "수치 데이터 처리"
+      },
+      {
+        "icon": "/image/course/ic_pandas.svg",
+        "title": "Pandas",
+        "desc": "데이터프레임 활용"
+      },
+      {
+        "icon": "/image/course/ic_analysis.svg",
+        "title": "데이터분석",
+        "desc": "품질관리 데이터 실습"
+      }
+    ],
+
+    "relatedTags": ["Python", "NumPy", "Pandas", "데이터분석"]
+  },
+  {
+    "id": 46,
+    "category": "AI·데이터",
+    "academy": "원스펙",
+    "title": "쉽게 배워 바로 쓰는 AI 딥러닝 실무 과정",
+    "status": "모집중",
+    "deadline": "2026-06-10",
+    "period": "4주",
+    "type": "온라인",
+    "location": "-",
+    "price": "496,100원",
+    "tags": ["PyTorch", "OpenCV", "CNN", "딥러닝"],
+    "thumbnail": "/image/AI/img7.jpg",
+    "shortDesc": "PyTorch와 OpenCV를 활용해 딥러닝 모델과 이미지 처리 기술을 학습하는 AI 실무 과정입니다.",
+    "courseLink": "https://winspec.co.kr/lectures/1446?utm_source=boottent&utm_medium=content&utm_c%5B=",
+    "capacity": "70명",
+    "currentApplicants": "23명",
+    "intro": "PyTorch, OpenCV, CNN을 활용해 AI 딥러닝의 기본 원리와 이미지 처리 실무를 학습하는 과정입니다. 딥러닝 모델 구조를 이해하고 간단한 실습 프로젝트를 진행합니다.",
+
+    "recommendFor": [
+      "딥러닝 입문을 준비하는 분",
+      "PyTorch를 배우고 싶은 분",
+      "OpenCV 이미지 처리를 익히고 싶은 분",
+      "CNN 모델 구조를 이해하고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "원스펙",
+      "desc": "AI와 딥러닝 실무 교육을 중심으로 한 온라인 교육 과정을 제공합니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://winspec.co.kr/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_pytorch.svg",
+        "title": "PyTorch",
+        "desc": "딥러닝 모델 구현"
+      },
+      {
+        "icon": "/image/course/ic_opencv.svg",
+        "title": "OpenCV",
+        "desc": "이미지 처리 실습"
+      },
+      {
+        "icon": "/image/course/ic_cnn.svg",
+        "title": "CNN",
+        "desc": "이미지 분류 모델 이해"
+      },
+      {
+        "icon": "/image/course/ic_ai.svg",
+        "title": "딥러닝",
+        "desc": "AI 모델 학습 흐름"
+      }
+    ],
+
+    "relatedTags": ["PyTorch", "OpenCV", "CNN", "딥러닝"]
+  },
+  {
+    "id": 47,
+    "category": "AI·데이터",
+    "academy": "고려아카데미컨설팅",
+    "title": "AI와 파이썬을 활용한 스마트 업무 자동화 마스터 과정",
+    "status": "모집마감",
+    "deadline": "2026-06-01",
+    "period": "4주",
+    "type": "온라인",
+    "location": "-",
+    "price": "45,000원",
+    "tags": ["ChatGPT", "Selenium", "Python"],
+    "thumbnail": "/image/AI/img8.jpg",
+    "shortDesc": "ChatGPT와 Selenium을 활용해 반복 업무를 자동화하는 스마트 업무 혁신 과정입니다.",
+    "courseLink": "https://itup.co.kr/rv1/k-digital/main/lecture/info?course_uid=726703&education_uid=60869&utm_source=boottent&utm_medium=referral",
+    "capacity": "80명",
+    "currentApplicants": "80명",
+    "intro": "ChatGPT, Selenium, Python을 활용해 반복 업무를 자동화하는 과정입니다. 웹 브라우저 제어와 AI 활용을 접목해 스마트 업무 자동화 프로젝트를 실습합니다.",
+
+    "recommendFor": [
+      "업무 자동화에 관심 있는 분",
+      "Python 자동화 스크립트를 배우고 싶은 분",
+      "Selenium 웹 자동화를 익히고 싶은 분",
+      "ChatGPT를 실무에 활용하고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "고려아카데미컨설팅",
+      "desc": "IT 실무 교육과 AI 활용 역량 강화를 위한 온라인 교육 과정을 제공합니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://itup.co.kr/rv1/k-digital/main/couse"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_ai.svg",
+        "title": "ChatGPT",
+        "desc": "AI를 활용한 업무 보조"
+      },
+      {
+        "icon": "/image/course/ic_Selenium.svg",
+        "title": "Selenium",
+        "desc": "웹 브라우저 자동화"
+      },
+      {
+        "icon": "/image/course/ic_python.svg",
+        "title": "Python",
+        "desc": "자동화 스크립트 작성"
+      },
+      {
+        "icon": "/image/course/ic_automation.svg",
+        "title": "업무 자동화",
+        "desc": "반복 작업 자동 처리"
+      }
+    ],
+
+    "relatedTags": ["ChatGPT", "Selenium", "Python", "자동화"]
+  },
+  {
+    "id": 48,
+    "category": "AI·데이터",
+    "academy": "아시아경제 교육센터",
+    "title": "의료·헬스케어 빅데이터 분석 기반 의학연구 및 AI 의료서비스 모델 개발과정",
+    "status": "모집마감",
+    "deadline": "2026-06-01",
+    "period": "6개월",
+    "type": "오프라인 (서울)",
+    "location": "서울",
+    "price": "무료",
+    "tags": ["Python", "SQL", "머신러닝", "빅데이터"],
+    "thumbnail": "/image/AI/img9.jpg",
+    "shortDesc": "헬스케어 빅데이터를 분석하고 머신러닝 기반 AI 의료서비스 모델을 개발하는 과정입니다.",
+    "courseLink": "https://e.asiae.co.kr/ak-edu/?utm_source=boottent&utm_medium=referral",
+    "capacity": "60명",
+    "currentApplicants": "60명",
+    "intro": "의료·헬스케어 데이터를 활용해 Python, SQL, 머신러닝, 빅데이터 분석을 학습하는 과정입니다. 데이터 기반 AI 의료서비스 모델 개발 흐름을 경험할 수 있습니다.",
+
+    "recommendFor": [
+      "헬스케어 데이터 분석에 관심 있는 분",
+      "Python과 SQL을 함께 배우고 싶은 분",
+      "머신러닝 기반 예측 모델을 만들고 싶은 분",
+      "빅데이터 분석 프로젝트가 필요한 분"
+    ],
+
+    "academyInfo": {
+      "name": "아시아경제 교육센터",
+      "desc": "산업 실무와 데이터 분석 역량 강화를 위한 전문 교육 과정을 운영하는 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://e.asiae.co.kr/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_python.svg",
+        "title": "Python",
+        "desc": "데이터 분석과 모델링"
+      },
+      {
+        "icon": "/image/course/ic_sql.svg",
+        "title": "SQL",
+        "desc": "데이터 조회와 전처리"
+      },
+      {
+        "icon": "/image/course/ic_ml.svg",
+        "title": "머신러닝",
+        "desc": "예측 모델 개발"
+      },
+      {
+        "icon": "/image/course/ic_bigdata.svg",
+        "title": "빅데이터",
+        "desc": "대용량 데이터 분석"
+      }
+    ],
+
+    "relatedTags": ["Python", "SQL", "머신러닝", "빅데이터"]
+  },
+  {
+    "id": 49,
+    "category": "AI·데이터",
+    "academy": "고려아카데미컨설팅",
+    "title": "AI와 함께하는 스마트 업무와 콘텐츠 제작",
+    "status": "모집마감",
+    "deadline": "2026-06-01",
+    "period": "4주",
+    "type": "온라인",
+    "location": "-",
+    "price": "40,000원",
+    "tags": ["AI활용", "AI이미지", "생성형AI"],
+    "thumbnail": "/image/AI/img10.jpg",
+    "shortDesc": "생성형 AI와 AI 이미지 도구를 활용해 콘텐츠 제작과 업무 자동화를 학습하는 과정입니다.",
+    "courseLink": "https://itup.co.kr/rv1/k-digital/main/lecture/info?course_uid=468478&education_uid=59375&utm_source=boottent&utm_medium=referral",
+    "capacity": "90명",
+    "currentApplicants": "90명",
+    "intro": "AI 도구를 활용해 스마트 업무와 콘텐츠 제작을 배우는 과정입니다. AI 이미지, 생성형 AI, 데이터분석 기능을 활용하여 실무형 결과물을 제작할 수 있습니다.",
+
+    "recommendFor": [
+      "AI 콘텐츠 제작을 배우고 싶은 분",
+      "생성형 AI를 업무에 활용하고 싶은 분",
+      "AI 이미지 제작에 관심 있는 분",
+      "데이터분석 기초도 함께 익히고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "고려아카데미컨설팅",
+      "desc": "IT 실무 교육과 AI 활용 역량 강화를 위한 온라인 교육 과정을 제공합니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://itup.co.kr/rv1/k-digital/main/couse"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_ai.svg",
+        "title": "AI 활용",
+        "desc": "업무 생산성 향상"
+      },
+      {
+        "icon": "/image/course/ic_image.svg",
+        "title": "AI 이미지",
+        "desc": "이미지 생성 도구 활용"
+      },
+      {
+        "icon": "/image/course/ic_generative.svg",
+        "title": "생성형 AI",
+        "desc": "텍스트와 콘텐츠 제작"
+      },
+      {
+        "icon": "/image/course/ic_analysis.svg",
+        "title": "데이터분석",
+        "desc": "데이터 기반 결과 정리"
+      }
+    ],
+
+    "relatedTags": ["AI활용", "AI이미지", "생성형AI", "데이터분석"]
+  },
+  {
+    "id": 50,
+    "category": "디자인",
+    "academy": "KD아카데미 김포",
+    "title": "프로젝트기반 AI활용 UIUX웹앱디자인(피그마·Figma)&프론트엔드(React.js) 1기",
+    "status": "모집중",
+    "deadline": "2026-06-02",
+    "period": "5개월",
+    "type": "오프라인 (김포)",
+    "location": "김포",
+    "price": "40만원",
+    "tags": ["UIUX", "Figma", "React", "Photoshop"],
+    "thumbnail": "/image/Design/img1.png",
+    "shortDesc": "Figma와 React를 활용해 UI/UX 디자인부터 웹앱 개발까지 경험하는 프로젝트 중심 과정입니다.",
+    "courseLink": "https://gp.kd-academy.co.kr/front/lecture/?idx=700&utm_source=boottent&utm_medium=referral",
+    "capacity": "60명",
+    "currentApplicants": "38명",
+    "intro": "AI 활용 UIUX 웹앱디자인과 React 기반 프론트엔드 개발을 함께 학습하는 과정입니다. Figma로 화면을 설계하고 프로젝트 중심으로 웹앱 제작 흐름을 경험할 수 있습니다.",
+
+    "recommendFor": [
+      "UI/UX 디자인과 프론트엔드를 함께 배우고 싶은 분",
+      "Figma 기반 웹앱 디자인을 익히고 싶은 분",
+      "React 프로젝트 경험이 필요한 분",
+      "AI를 활용한 디자인 workflow에 관심 있는 분"
+    ],
+
+    "academyInfo": {
+      "name": "KD아카데미 김포",
+      "desc": "UIUX 디자인과 프론트엔드 개발 실무 교육을 제공하는 교육 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://gp.kd-academy.co.kr/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_design.svg",
+        "title": "UIUX",
+        "desc": "사용자 중심 화면 설계"
+      },
+      {
+        "icon": "/image/course/ic_figma.svg",
+        "title": "Figma",
+        "desc": "와이어프레임과 프로토타입 제작"
+      },
+      {
+        "icon": "/image/course/ic_react.svg",
+        "title": "React",
+        "desc": "웹앱 화면 구현"
+      },
+      {
+        "icon": "/image/course/ic_photoshop.svg",
+        "title": "Photoshop",
+        "desc": "디자인 리소스 제작"
+      }
+    ],
+
+    "relatedTags": ["UIUX", "Figma", "React", "Photoshop"]
+  },
+  {
+    "id": 51,
+    "category": "디자인",
+    "academy": "아이씨씨아카데미",
+    "title": "취업실무 텍스타일디자인 국비과정 2026년 3회차",
+    "status": "모집중",
+    "deadline": "2026-06-05",
+    "period": "4개월",
+    "type": "오프라인 (서울)",
+    "location": "서울",
+    "price": "170만원",
+    "tags": ["텍스타일", "패션그래픽", "디지털드로잉"],
+    "thumbnail": "/image/Design/img2.jpg",
+    "shortDesc": "텍스타일 디자인과 패션 그래픽 실무를 학습하며 포트폴리오 제작 역량을 키우는 과정입니다.",
+    "courseLink": "https://m.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=AIG20250000529009&tracseTme=3&cstmConsTme&crseTracseSe=C0061&trainstCstmrId=500020019174&tracseReqstsCd&focusId&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnBlUolEYhSrYcriWFpKl0S0v0VeFvBPgYdeuUuvTJxNb7dqVfBBpBFn5a1bw_aem_vBLIxXyQScaN2YX23ov7Uw&",
+    "capacity": "50명",
+    "currentApplicants": "29명",
+    "intro": "텍스타일 디자인 실무를 중심으로 패션 그래픽, DTP, 디지털 드로잉 제작 역량을 학습하는 과정입니다. 디자인 결과물을 포트폴리오로 정리할 수 있도록 실습 중심으로 구성되어 있습니다.",
+
+    "recommendFor": [
+      "텍스타일 디자인 분야에 관심 있는 분",
+      "패션 그래픽 작업을 배우고 싶은 분",
+      "DTP와 디지털 드로잉을 익히고 싶은 분",
+      "디자인 포트폴리오를 만들고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "아이씨씨아카데미",
+      "desc": "패션, 텍스타일, 그래픽 디자인 실무 교육을 제공하는 디자인 교육 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "http://www.iccacademy.co.kr/?utm_source=boottent&utm_medium=referral"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_textile.svg",
+        "title": "텍스타일",
+        "desc": "패턴과 소재 디자인 기초"
+      },
+      {
+        "icon": "/image/course/ic_fashion.svg",
+        "title": "패션그래픽",
+        "desc": "의류 그래픽 디자인 제작"
+      },
+      {
+        "icon": "/image/course/ic_dtp.svg",
+        "title": "DTP",
+        "desc": "편집과 출력 디자인 이해"
+      },
+      {
+        "icon": "/image/course/ic_drawing.svg",
+        "title": "디지털드로잉",
+        "desc": "디지털 기반 일러스트 작업"
+      }
+    ],
+
+    "relatedTags": ["텍스타일", "패션그래픽", "DTP", "디지털드로잉"]
+  },
+  {
+    "id": 52,
+    "category": "디자인",
+    "academy": "멋쟁이사자처럼",
+    "title": "ChatGPT로 기획하고 피그마로 완성하는 UI 프로토타이핑 실무",
+    "status": "모집중",
+    "deadline": "2026-06-07",
+    "period": "6주",
+    "type": "온라인",
+    "location": "-",
+    "price": "36,000원",
+    "tags": ["Figma", "프로토타이핑", "UI", "ChatGPT"],
+    "thumbnail": "/image/Design/img3.jpg",
+    "shortDesc": "ChatGPT와 Figma를 활용해 서비스 기획부터 UI 프로토타입 제작까지 경험하는 실무 과정입니다.",
+    "courseLink": "https://likelion.net/onboarding/kdc-figmaui?utm_source=boottent&utm_medium=referral",
+    "capacity": "80명",
+    "currentApplicants": "52명",
+    "intro": "ChatGPT를 활용해 서비스 기획 아이디어를 도출하고 Figma로 UI 프로토타입을 완성하는 실무 과정입니다. 기획부터 화면 설계까지 빠르게 경험할 수 있습니다.",
+
+    "recommendFor": [
+      "AI를 활용한 UI 기획을 배우고 싶은 분",
+      "Figma 프로토타입 제작이 필요한 분",
+      "서비스 기획과 화면 설계를 함께 배우고 싶은 분",
+      "짧은 기간에 실무형 결과물을 만들고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "멋쟁이사자처럼",
+      "desc": "실무 중심의 개발과 디자인 교육을 제공하는 대표적인 IT 교육 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://likelion.net/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_figma.svg",
+        "title": "Figma",
+        "desc": "UI 화면과 프로토타입 제작"
+      },
+      {
+        "icon": "/image/course/ic_prototype.svg",
+        "title": "프로토타이핑",
+        "desc": "사용자 흐름 기반 화면 연결"
+      },
+      {
+        "icon": "/image/course/ic_ui.svg",
+        "title": "UI",
+        "desc": "인터페이스 구성 원칙"
+      },
+      {
+        "icon": "/image/course/ic_ai.svg",
+        "title": "ChatGPT",
+        "desc": "기획 아이디어와 문구 생성"
+      }
+    ],
+
+    "relatedTags": ["Figma", "프로토타이핑", "UI", "ChatGPT"]
+  },
+  {
+    "id": 53,
+    "category": "디자인",
+    "academy": "멋쟁이사자처럼",
+    "title": "현업에 바로 쓰는 UX/UI 디자인 : 리서치부터 포트폴리오 완성까지",
+    "status": "모집중",
+    "deadline": "2026-06-07",
+    "period": "6주",
+    "type": "온라인",
+    "location": "-",
+    "price": "45,600원",
+    "tags": ["UXUI", "A/B Test", "피그마", "리서치"],
+    "thumbnail": "/image/Design/img4.jpg",
+    "shortDesc": "UX 리서치, A/B 테스트, Figma를 활용해 실무형 UX/UI 포트폴리오를 완성하는 과정입니다.",
+    "courseLink": "https://likelion.net/onboarding/kdc-figmaster?utm_source=boottent&utm_medium=referral",
+    "capacity": "80명",
+    "currentApplicants": "49명",
+    "intro": "UX/UI 리서치부터 포트폴리오 완성까지 디자인 실무 전 과정을 학습하는 과정입니다. 사용자 조사, A/B Test, Figma 기반 화면 설계를 통해 실무 역량을 키울 수 있습니다.",
+
+    "recommendFor": [
+      "UX/UI 디자이너를 준비하는 분",
+      "리서치 기반 디자인을 배우고 싶은 분",
+      "Figma를 실무처럼 활용하고 싶은 분",
+      "포트폴리오 완성이 필요한 분"
+    ],
+
+    "academyInfo": {
+      "name": "멋쟁이사자처럼",
+      "desc": "실무 중심의 개발과 디자인 교육을 제공하는 대표적인 IT 교육 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://likelion.net/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_design.svg",
+        "title": "UXUI",
+        "desc": "사용자 경험 중심 설계"
+      },
+      {
+        "icon": "/image/course/ic_career.svg",
+        "title": "A/B Test",
+        "desc": "사용자 반응 기반 검증"
+      },
+      {
+        "icon": "/image/course/ic_figma.svg",
+        "title": "피그마",
+        "desc": "화면 설계와 디자인 시스템"
+      },
+      {
+        "icon": "/image/course/ic_data.svg",
+        "title": "리서치",
+        "desc": "사용자 조사와 문제 정의"
+      }
+    ],
+
+    "relatedTags": ["UXUI", "A/B Test", "피그마", "리서치"]
+  },
+  {
+    "id": 54,
+    "category": "디자인",
+    "academy": "코드잇",
+    "title": "피그마(Figma)와 AI로 쉽게 배우는 UI 디자인",
+    "status": "모집중",
+    "deadline": "2026-06-08",
+    "period": "4주",
+    "type": "온라인",
+    "location": "-",
+    "price": "50,000원",
+    "tags": ["Figma", "UI디자인", "생성형AI", "UX"],
+    "thumbnail": "/image/Design/img5.jpg",
+    "shortDesc": "Figma와 생성형 AI를 활용해 사용자 중심 UI 디자인을 쉽고 빠르게 학습하는 과정입니다.",
+    "courseLink": "https://www.codeit.kr/kdc/courses/kdc-ui-with-figma-ai?utm_source=boottent&utm_medium=community&utm_campaign=KDC_%EC%83%81%EC%8B%9C&utm_content=UI&",
+    "capacity": "90명",
+    "currentApplicants": "58명",
+    "intro": "Figma와 생성형 AI를 활용해 UI 디자인을 쉽고 빠르게 익히는 과정입니다. 화면 구성, 디자인 아이디어 도출, 프로토타입 제작까지 실습 중심으로 학습합니다.",
+
+    "recommendFor": [
+      "Figma를 처음 배우는 분",
+      "AI를 활용한 UI 디자인에 관심 있는 분",
+      "서비스 화면 디자인을 만들어보고 싶은 분",
+      "UX 기초와 UI 제작을 함께 배우고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "코드잇",
+      "desc": "온라인 기반 코딩과 디지털 실무 교육을 제공하는 학습 플랫폼입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://www.codeit.kr/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_figma.svg",
+        "title": "Figma",
+        "desc": "UI 화면 제작과 컴포넌트 관리"
+      },
+      {
+        "icon": "/image/course/ic_ui.svg",
+        "title": "UI디자인",
+        "desc": "화면 구성과 시각적 계층"
+      },
+      {
+        "icon": "/image/course/ic_ai.svg",
+        "title": "생성형AI",
+        "desc": "디자인 아이디어와 콘텐츠 제작"
+      },
+      {
+        "icon": "/image/course/ic_ux.svg",
+        "title": "UX",
+        "desc": "사용자 흐름과 경험 설계"
+      }
+    ],
+
+    "relatedTags": ["Figma", "UI디자인", "생성형AI", "UX"]
+  },
+  {
+    "id": 55,
+    "category": "디자인",
+    "academy": "내일배움캠프",
+    "title": "AI 콘텐츠 디자이너 5기",
+    "status": "모집중",
+    "deadline": "2026-06-08",
+    "period": "5개월",
+    "type": "온라인",
+    "location": "-",
+    "price": "60만원",
+    "tags": ["Photoshop", "Illustrator", "Midjourney", "Blender"],
+    "thumbnail": "/image/Design/img6.jpg",
+    "shortDesc": "Photoshop, Illustrator, Midjourney를 활용해 AI 콘텐츠 디자인 결과물을 제작하는 과정입니다.",
+    "courseLink": "https://nbcamp.spartaclub.kr/ai_designer?utm_source=boottent&utm_medium=referral",
+
+    "capacity": "80명",
+    "currentApplicants": "51명",
+    "intro": "Photoshop, Illustrator, Midjourney, Blender를 활용해 AI 콘텐츠 디자인 결과물을 제작하는 과정입니다. 이미지 생성부터 3D 표현까지 다양한 디자인 툴을 경험할 수 있습니다.",
+
+    "recommendFor": [
+      "AI 콘텐츠 디자이너를 목표로 하는 분",
+      "Photoshop과 Illustrator를 배우고 싶은 분",
+      "Midjourney 활용 이미지 제작이 필요한 분",
+      "Blender 기반 3D 콘텐츠에 관심 있는 분"
+    ],
+
+    "academyInfo": {
+      "name": "내일배움캠프",
+      "desc": "취업 중심의 실무 프로젝트형 디지털 교육을 제공하는 온라인 부트캠프입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://nbcamp.spartaclub.kr/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_photoshop.svg",
+        "title": "Photoshop",
+        "desc": "이미지 보정과 합성"
+      },
+      {
+        "icon": "/image/course/ic_illustrator.svg",
+        "title": "Illustrator",
+        "desc": "벡터 그래픽 제작"
+      },
+      {
+        "icon": "/image/course/ic_ai.svg",
+        "title": "Midjourney",
+        "desc": "AI 이미지 생성"
+      },
+      {
+        "icon": "/image/course/ic_blender.svg",
+        "title": "Blender",
+        "desc": "3D 콘텐츠 제작"
+      }
+    ],
+
+    "relatedTags": ["Photoshop", "Illustrator", "Midjourney", "Blender"]
+  },
+  {
+    "id": 56,
+    "category": "디자인",
+    "academy": "이젠아카데미DX교육센터",
+    "title": "AI기반 Lean UX/UI 프로젝트 디자인(with Figma)",
+    "status": "모집중",
+    "deadline": "2026-06-09",
+    "period": "4주",
+    "type": "온라인",
+    "location": "-",
+    "price": "41,140원",
+    "tags": ["LeanUX", "UX", "UI", "Figma"],
+    "thumbnail": "/image/Design/img7.jpg",
+    "shortDesc": "Lean UX 방법론과 Figma를 활용해 사용자 중심 UX/UI 프로젝트를 설계하는 과정입니다.",
+    "courseLink": "https://ecrew.co.kr/class/ai-ux-ui-design-figma",
+    "capacity": "90명",
+    "currentApplicants": "57명",
+    "intro": "AI 기반 Lean UX/UI 프로젝트 디자인 과정입니다. Figma를 활용해 사용자 문제를 빠르게 정의하고 Lean UX 방식으로 화면을 설계하는 방법을 학습합니다.",
+
+    "recommendFor": [
+      "Lean UX 방식에 관심 있는 분",
+      "Figma로 UX/UI 프로젝트를 만들고 싶은 분",
+      "AI를 활용한 디자인 프로세스를 배우고 싶은 분",
+      "서비스 개선 프로젝트를 경험하고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "이젠아카데미DX교육센터",
+      "desc": "디지털 전환 시대에 맞춘 UX/UI, 웹 개발, AI 활용 실무 교육을 제공하는 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://ecrew.co.kr/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_leanux.svg",
+        "title": "LeanUX",
+        "desc": "빠른 가설 검증과 개선"
+      },
+      {
+        "icon": "/image/course/ic_ux.svg",
+        "title": "UX",
+        "desc": "사용자 경험 설계"
+      },
+      {
+        "icon": "/image/course/ic_ui.svg",
+        "title": "UI",
+        "desc": "화면 구성과 인터페이스 디자인"
+      },
+      {
+        "icon": "/image/course/ic_figma.svg",
+        "title": "Figma",
+        "desc": "프로토타입 제작"
+      }
+    ],
+
+    "relatedTags": ["LeanUX", "UX", "UI", "Figma"]
+  },
+  {
+    "id": 57,
+    "category": "디자인",
+    "academy": "하이미디어아카데미 강릉",
+    "title": "(출판)출판편집디자인(포토샵, 일러스트, 인디자인, E-book)",
+    "status": "모집중",
+    "deadline": "2026-06-10",
+    "period": "4.5개월",
+    "type": "오프라인 (강원)",
+    "location": "강원",
+    "price": "30만원",
+    "tags": ["Photoshop", "Illustrator", "InDesign", "E-book"],
+    "thumbnail": "/image/Design/img8.jpg",
+    "shortDesc": "Photoshop, Illustrator, InDesign을 활용해 출판 편집 디자인과 E-book 제작을 학습하는 과정입니다.",
+    "courseLink": "https://gn.ithimedia.co.kr/Support/work_view/publish/C201070956492409?utm_source=boottent&utm_medium=referral",
+    "capacity": "60명",
+    "currentApplicants": "37명",
+    "intro": "출판편집디자인 실무를 중심으로 Photoshop, Illustrator, InDesign, E-book 제작 과정을 학습합니다. 인쇄물과 디지털 출판물 제작 역량을 함께 키울 수 있습니다.",
+
+    "recommendFor": [
+      "출판편집디자인을 배우고 싶은 분",
+      "Photoshop과 Illustrator를 활용하고 싶은 분",
+      "InDesign 편집 작업을 익히고 싶은 분",
+      "E-book 제작에 관심 있는 분"
+    ],
+
+    "academyInfo": {
+      "name": "하이미디어아카데미 강릉",
+      "desc": "디자인과 IT 실무 교육을 제공하는 직업 교육 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://gn.himediaacademy.kr/?utm_source=boottent&utm_medium=referral"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_photoshop.svg",
+        "title": "Photoshop",
+        "desc": "이미지 편집과 보정"
+      },
+      {
+        "icon": "/image/course/ic_illustrator.svg",
+        "title": "Illustrator",
+        "desc": "벡터 그래픽 제작"
+      },
+      {
+        "icon": "/image/course/ic_indesign.svg",
+        "title": "InDesign",
+        "desc": "출판 편집 레이아웃"
+      },
+      {
+        "icon": "/image/course/ic_ebook.svg",
+        "title": "E-book",
+        "desc": "디지털 출판물 제작"
+      }
+    ],
+
+    "relatedTags": ["Photoshop", "Illustrator", "InDesign", "E-book"]
+  },
+  {
+    "id": 58,
+    "category": "디자인",
+    "academy": "상상비즈아카데미",
+    "title": "2D·AI3D·AI기획 실무 애니메이션 신규 취업자 양성 과정 4기",
+    "status": "모집중",
+    "deadline": "2026-06-10",
+    "period": "4개월",
+    "type": "오프라인 (서울)",
+    "location": "서울",
+    "price": "무료",
+    "tags": ["3D모델링", "애니메이션", "VFX", "렌더링"],
+    "thumbnail": "/image/Design/img9.jpg",
+    "shortDesc": "3D 모델링, 애니메이션, VFX를 활용한 AI 콘텐츠 제작 실무를 경험하는 과정입니다.",
+    "courseLink": "https://sangsangbiz.seoul.go.kr/curriculum.php?idx=42&utm_source=boottent&utm_medium=referral",
+    "capacity": "50명",
+    "currentApplicants": "31명",
+    "intro": "2D, AI 3D, AI 기획을 활용한 애니메이션 실무 과정입니다. 3D 모델링, 애니메이션, VFX, 렌더링 제작 과정을 프로젝트 중심으로 경험할 수 있습니다.",
+
+    "recommendFor": [
+      "애니메이션 제작에 관심 있는 분",
+      "3D 모델링을 배우고 싶은 분",
+      "VFX와 렌더링 작업을 경험하고 싶은 분",
+      "AI 기반 콘텐츠 기획을 배우고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "상상비즈아카데미",
+      "desc": "콘텐츠 제작과 디자인 실무 인재 양성을 위한 교육 과정을 운영하는 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://sangsangbiz.seoul.go.kr/index.php"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_3d.svg",
+        "title": "3D모델링",
+        "desc": "캐릭터와 오브젝트 제작"
+      },
+      {
+        "icon": "/image/course/ic_animation.svg",
+        "title": "애니메이션",
+        "desc": "모션과 장면 구성"
+      },
+      {
+        "icon": "/image/course/ic_vfx.svg",
+        "title": "VFX",
+        "desc": "시각 효과 제작"
+      },
+      {
+        "icon": "/image/course/ic_rendering.svg",
+        "title": "렌더링",
+        "desc": "최종 이미지와 영상 출력"
+      }
+    ],
+
+    "relatedTags": ["3D모델링", "애니메이션", "VFX", "렌더링"]
+  },
+  {
+    "id": 59,
+    "category": "디자인",
+    "academy": "MBC아카데미 수원점",
+    "title": "3D엔진 활용 메타버스 게임 개발자(기획·디자인·개발) 양성",
+    "status": "모집중",
+    "deadline": "2026-06-08",
+    "period": "8.5개월",
+    "type": "오프라인 (경기)",
+    "location": "경기",
+    "price": "50만원",
+    "tags": ["게임기획", "콘텐츠디자인", "3D모델링"],
+    "thumbnail": "/image/Design/img10.jpg",
+    "shortDesc": "게임기획과 3D 모델링을 기반으로 메타버스 콘텐츠 제작 역량을 키우는 과정입니다.",
+    "courseLink": "https://sw.mbccomputer.co.kr/front/education/course/1523?utm_source=boottent&utm_medium=referral",
+    "capacity": "50명",
+    "currentApplicants": "30명",
+    "intro": "3D 엔진을 활용한 메타버스 게임 개발자 양성 과정입니다. 게임기획, 콘텐츠디자인, 3D 모델링을 함께 학습하며 개발 흐름을 이해할 수 있습니다.",
+
+    "recommendFor": [
+      "메타버스와 게임 개발에 관심 있는 분",
+      "게임기획과 디자인을 함께 배우고 싶은 분",
+      "3D 모델링 기반 콘텐츠를 만들고 싶은 분",
+      "포토샵을 활용한 게임 리소스 제작이 필요한 분"
+    ],
+
+    "academyInfo": {
+      "name": "MBC아카데미 수원점",
+      "desc": "디자인, 게임, 콘텐츠 제작 분야의 실무 교육을 제공하는 교육 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://sw.mbccomputer.co.kr/front/home"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_game.svg",
+        "title": "게임기획",
+        "desc": "게임 구조와 시스템 설계"
+      },
+      {
+        "icon": "/image/course/ic_content.svg",
+        "title": "콘텐츠디자인",
+        "desc": "게임 콘텐츠 리소스 기획"
+      },
+      {
+        "icon": "/image/course/ic_3d.svg",
+        "title": "3D모델링",
+        "desc": "메타버스 오브젝트 제작"
+      },
+      {
+        "icon": "/image/course/ic_photoshop.svg",
+        "title": "포토샵",
+        "desc": "2D 리소스 편집"
+      }
+    ],
+
+    "relatedTags": ["게임기획", "콘텐츠디자인", "3D모델링", "포토샵"]
+  },
+  {
+    "id": 60,
+    "category": "디자인",
+    "academy": "하이미디어아카데미 강남",
+    "title": "(디지털디자인) 생성형 AI활용 웹디자인&웹퍼블리셔(Figma)",
+    "status": "모집중",
+    "deadline": "2026-06-17",
+    "period": "5개월",
+    "type": "오프라인 (서울)",
+    "location": "서울",
+    "price": "30만원",
+    "tags": ["HTML", "CSS", "JavaScript", "Figma"],
+    "thumbnail": "/image/Design/img11.jpg",
+    "shortDesc": "생성형 AI와 Figma를 활용해 웹디자인부터 웹퍼블리싱까지 학습하는 실무 과정입니다.",
+    "courseLink": "https://kangnam.ithimedia.co.kr/Support/work_view/web/C212071644428086?utm_source=boottent&utm_medium=referral",
+
+    "capacity": "60명",
+    "currentApplicants": "35명",
+    "intro": "생성형 AI를 활용한 웹디자인과 웹퍼블리셔 과정입니다. Figma, HTML, CSS, JavaScript를 활용해 디자인부터 퍼블리싱까지 실무 흐름을 학습합니다.",
+
+    "recommendFor": [
+      "웹디자인과 퍼블리싱을 함께 배우고 싶은 분",
+      "Figma 기반 화면 설계를 익히고 싶은 분",
+      "HTML, CSS, JavaScript 기초가 필요한 분",
+      "생성형 AI를 디자인 작업에 활용하고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "하이미디어아카데미 강남",
+      "desc": "디자인과 IT 실무 교육을 제공하는 직업 교육 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://kangnam.ithimedia.co.kr/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_html.svg",
+        "title": "HTML",
+        "desc": "웹 페이지 구조 작성"
+      },
+      {
+        "icon": "/image/course/ic_css.svg",
+        "title": "CSS",
+        "desc": "스타일과 레이아웃 구성"
+      },
+      {
+        "icon": "/image/course/ic_js.svg",
+        "title": "JavaScript",
+        "desc": "동적 웹 기능 구현"
+      },
+      {
+        "icon": "/image/course/ic_figma.svg",
+        "title": "Figma",
+        "desc": "화면 설계와 프로토타입"
+      }
+    ],
+
+    "relatedTags": ["HTML", "CSS", "JavaScript", "Figma"]
+  },
+  {
+    "id": 61,
+    "category": "디자인",
+    "academy": "인사이드아웃X쎄싹",
+    "title": "AI로 한 번에 끝내는 서비스기획·UX/UI 실전 과정",
+    "status": "모집중",
+    "deadline": "2026-06-19",
+    "period": "3개월",
+    "type": "오프라인 (서울)",
+    "location": "서울",
+    "price": "무료",
+    "tags": ["서비스기획", "UXUI", "AI활용", "Framer"],
+    "thumbnail": "/image/Design/img12.jpg",
+    "shortDesc": "AI를 활용한 서비스 기획과 UX/UI 설계를 통해 실전 프로젝트를 수행하는 과정입니다.",
+    "courseLink": "https://insideout.or.kr/project/projectcamp-aiserviceplanninguxui?utm_source=boottent&utm_medium=viral&utm_campaign=260526",
+    "capacity": "50명",
+    "currentApplicants": "28명",
+    "intro": "AI를 활용해 서비스기획과 UX/UI 실전 과정을 학습합니다. 서비스 문제 정의부터 UXUI 설계, Framer 기반 프로토타입 제작까지 한 번에 경험할 수 있습니다.",
+
+    "recommendFor": [
+      "서비스기획을 배우고 싶은 분",
+      "UX/UI 실무 프로젝트를 경험하고 싶은 분",
+      "AI를 기획 과정에 활용하고 싶은 분",
+      "Framer로 인터랙티브 프로토타입을 만들고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "인사이드아웃X쎄싹",
+      "desc": "실무 기반 서비스기획과 UX/UI 교육을 제공하는 디지털 교육 프로그램입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://insideout.or.kr/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_planning.svg",
+        "title": "서비스기획",
+        "desc": "문제 정의와 기능 설계"
+      },
+      {
+        "icon": "/image/course/ic_design.svg",
+        "title": "UXUI",
+        "desc": "사용자 경험 중심 화면 설계"
+      },
+      {
+        "icon": "/image/course/ic_ai.svg",
+        "title": "AI활용",
+        "desc": "기획과 리서치 보조"
+      },
+      {
+        "icon": "/image/course/ic_framer.svg",
+        "title": "Framer",
+        "desc": "인터랙티브 프로토타입 제작"
+      }
+    ],
+
+    "relatedTags": ["서비스기획", "UXUI", "AI활용", "Framer"]
+  },
+  {
+    "id": 62,
+    "category": "디자인",
+    "academy": "국제인재개발원",
+    "title": "공공디자인을 위한 시각디자인 실무 및 공공캐릭터 제작 1기",
+    "status": "모집중",
+    "deadline": "2026-06-22",
+    "period": "5개월",
+    "type": "오프라인 (전남)",
+    "location": "전남",
+    "price": "30만원",
+    "tags": ["Photoshop", "Illustrator", "InDesign"],
+    "thumbnail": "/image/Design/img13.jpg",
+    "shortDesc": "시각디자인과 공공 캐릭터 제작을 중심으로 디자인 실무 역량을 강화하는 과정입니다.",
+    "courseLink": "http://www.kjca.co.kr/process/?site=mokpo&type=view&&pg_idx=8&ps_idx=7284&site=mokpo&mn=1403&t=t&utm_source=boottent&utm_medium=referral",
+    "capacity": "60명",
+    "currentApplicants": "33명",
+    "intro": "공공디자인을 위한 시각디자인 실무와 공공 캐릭터 제작 과정을 학습합니다. Photoshop, Illustrator, InDesign을 활용해 실무형 디자인 결과물을 제작합니다.",
+
+    "recommendFor": [
+      "공공디자인에 관심 있는 분",
+      "시각디자인 포트폴리오가 필요한 분",
+      "공공 캐릭터 제작을 경험하고 싶은 분",
+      "편집 디자인 툴을 익히고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "국제인재개발원",
+      "desc": "지역 기반 직업 교육과 디자인 실무 역량 강화를 위한 교육 과정을 운영하는 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "http://www.kjca.co.kr/?site=mokpo"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_photoshop.svg",
+        "title": "Photoshop",
+        "desc": "이미지 보정과 합성"
+      },
+      {
+        "icon": "/image/course/ic_illustrator.svg",
+        "title": "Illustrator",
+        "desc": "캐릭터와 그래픽 제작"
+      },
+      {
+        "icon": "/image/course/ic_indesign.svg",
+        "title": "InDesign",
+        "desc": "편집 디자인 구성"
+      },
+      {
+        "icon": "/image/course/ic_character.svg",
+        "title": "공공캐릭터",
+        "desc": "브랜드 캐릭터 제작"
+      }
+    ],
+
+    "relatedTags": ["Photoshop", "Illustrator", "InDesign", "공공디자인"]
+  },
+  {
+    "id": 63,
+    "category": "디자인",
+    "academy": "스나이퍼팩토리",
+    "title": "취업 경쟁 UP! 실무경험으로 완성하는 AI 콘텐츠 디자인 과정",
+    "status": "모집중",
+    "deadline": "2026-06-22",
+    "period": "3개월",
+    "type": "오프라인 (서울)",
+    "location": "서울",
+    "price": "무료",
+    "tags": ["ChatGPT", "Midjourney", "Figma"],
+    "thumbnail": "/image/Design/img14.png",
+    "shortDesc": "ChatGPT, Midjourney, Figma를 활용해 AI 콘텐츠 디자인 포트폴리오를 완성하는 과정입니다.",
+    "courseLink": "https://sniperfactory.com/program/sesac-aicontents-3?utm_source=boottent&utm_medium=viral&utm_campaign=260514",
+
+    "capacity": "50명",
+    "currentApplicants": "27명",
+    "intro": "ChatGPT, Midjourney, Figma를 활용해 AI 콘텐츠 디자인 실무 경험을 쌓는 과정입니다. 실무형 결과물을 제작하며 취업 경쟁력을 높일 수 있습니다.",
+
+    "recommendFor": [
+      "AI 콘텐츠 디자인에 관심 있는 분",
+      "ChatGPT와 Midjourney를 활용하고 싶은 분",
+      "Figma 기반 디자인 결과물을 만들고 싶은 분",
+      "디자인 포트폴리오를 강화하고 싶은 분"
+    ],
+
+    "academyInfo": {
+      "name": "스나이퍼팩토리",
+      "desc": "취업 경쟁력 강화를 위한 실무형 콘텐츠 디자인 교육을 제공하는 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://sniperfactory.com/"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_ai.svg",
+        "title": "ChatGPT",
+        "desc": "기획과 콘텐츠 문구 생성"
+      },
+      {
+        "icon": "/image/course/ic_midjourney.svg",
+        "title": "Midjourney",
+        "desc": "AI 이미지 제작"
+      },
+      {
+        "icon": "/image/course/ic_figma.svg",
+        "title": "Figma",
+        "desc": "디자인 화면 구성"
+      },
+      {
+        "icon": "/image/course/ic_photoshop.svg",
+        "title": "Photoshop",
+        "desc": "이미지 편집과 보정"
+      }
+    ],
+
+    "relatedTags": ["ChatGPT", "Midjourney", "Figma", "Photoshop"]
+  },
+  {
+    "id": 64,
+    "category": "디자인",
+    "academy": "멀티캠퍼스",
+    "title": "AI 커리어 스타트 캠프 AI.M AI 인터랙티브 UI/UX 1기",
+    "status": "모집중",
+    "deadline": "2026-06-28",
+    "period": "6개월",
+    "type": "오프라인(서울)",
+    "location": "서울",
+    "price": "무료",
+    "tags": ["Figma", "Claude", "TensorFlow.js"],
+    "thumbnail": "/image/Design/img15.jpg",
+    "shortDesc": "AI 인터랙티브 UI/UX 설계와 프로토타이핑을 통해 미래형 디자인 역량을 키우는 과정입니다.",
+    "courseLink": "https://bootcamp.multicampus.com/course/crsDetail?corsCd=FA01RJ&corsDgrCd=10104&corsYr=2026&utm_source=boottent&utm_medium=class&utm_campaign=AIM&utm_content=aim_2606&utm_term=BT_aim2606",
+    "capacity": "60명",
+    "currentApplicants": "32명",
+    "intro": "AI 인터랙티브 UI/UX를 중심으로 Figma, Claude, TensorFlow.js, Runway를 활용하는 과정입니다. AI 기반 인터랙션과 프로토타입 제작 흐름을 경험할 수 있습니다.",
+
+    "recommendFor": [
+      "AI 기반 UI/UX 디자인에 관심 있는 분",
+      "인터랙티브 프로토타입을 만들고 싶은 분",
+      "TensorFlow.js와 Runway 활용을 경험하고 싶은 분",
+      "미래형 디자인 포트폴리오를 준비하는 분"
+    ],
+
+    "academyInfo": {
+      "name": "멀티캠퍼스",
+      "desc": "기업 실무와 디지털 신기술 교육을 제공하는 전문 교육 기관입니다.",
+      "logo": "/image/course/ic_academy.svg",
+      "link": "https://www.multicampus.com/b2b/kr/index.html"
+    },
+
+    "curriculum": [
+      {
+        "icon": "/image/course/ic_figma.svg",
+        "title": "Figma",
+        "desc": "인터랙티브 화면 설계"
+      },
+      {
+        "icon": "/image/course/ic_claude.svg",
+        "title": "Claude",
+        "desc": "AI 기반 리서치와 문서화"
+      },
+      {
+        "icon": "/image/course/ic_tensorflow.svg",
+        "title": "TensorFlow.js",
+        "desc": "웹 기반 AI 인터랙션"
+      },
+      {
+        "icon": "/image/course/ic_ai.svg",
+        "title": "Runway",
+        "desc": "AI 영상과 미디어 제작"
+      }
+    ],
+
+    "relatedTags": ["Figma", "Claude", "TensorFlow.js", "Runway"]
+  }
+]
