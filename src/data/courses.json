@@ -691,7 +691,7 @@
         "desc": "백엔드 개발 기초"
       },
       {
-        "icon": "/image/course/ic_springboot.svg",
+       "icon": "/image/course/ic_springboot.svg",
         "title": "SpringBoot",
         "desc": "서버 API 구성"
       },
@@ -2502,7 +2502,7 @@
         "desc": "AI 서비스 흐름 구성"
       },
       {
-        "icon": "/image/course/ic_llm.svg",
+        "icon": "/image/course/ic_vllm.svg",
         "title": "LLM",
         "desc": "대형 언어모델 활용"
       },
