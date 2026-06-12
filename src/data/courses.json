@@ -686,7 +686,7 @@
 
     "curriculum": [
       {
-        "icon": "/image/course/ic_java.svg",
+        "icon": "/image/course/ic_javadata.svg",
         "title": "Java",
         "desc": "백엔드 개발 기초"
       },
@@ -1213,7 +1213,7 @@
 
     "curriculum": [
       {
-        "icon": "/image/course/ic_java.svg",
+        "icon": "/image/course/ic_javadata.svg",
         "title": "Java",
         "desc": "서버 개발 기초"
       },
@@ -1271,7 +1271,7 @@
 
     "curriculum": [
       {
-        "icon": "/image/course/ic_java.svg",
+        "icon": "/image/course/ic_javadata.svg",
         "title": "Java",
         "desc": "객체지향 백엔드 개발"
       },
@@ -1445,7 +1445,7 @@
 
     "curriculum": [
       {
-        "icon": "/image/course/ic_java.svg",
+        "icon": "/image/course/ic_javadata.svg",
         "title": "Java",
         "desc": "응용 소프트웨어 개발"
       },
@@ -1561,12 +1561,12 @@
 
     "curriculum": [
       {
-        "icon": "/image/course/ic_java.svg",
+        "icon": "/image/course/ic_javadata.svg",
         "title": "Java",
         "desc": "객체지향 서버 개발"
       },
       {
-        "icon": "/image/course/ic_SpringBoot.svg",
+        "icon": "/image/course/ic_springboot.svg",
         "title": "Spring",
         "desc": "백엔드 프레임워크 활용"
       },
@@ -1624,7 +1624,7 @@
         "desc": "서버 애플리케이션 개발"
       },
       {
-        "icon": "/image/course/ic_java.svg",
+        "icon": "/image/course/ic_javadata.svg",
         "title": "Java",
         "desc": "백엔드 핵심 언어"
       },
@@ -1678,7 +1678,7 @@
 
     "curriculum": [
       {
-        "icon": "/image/course/ic_java.svg",
+        "icon": "/image/course/ic_javadata.svg",
         "title": "Java",
         "desc": "백엔드 개발 핵심 문법"
       },
@@ -1736,7 +1736,7 @@
 
     "curriculum": [
       {
-        "icon": "/image/course/ic_java.svg",
+        "icon": "/image/course/ic_javadata.svg",
         "title": "Java",
         "desc": "객체지향 백엔드 개발"
       },
@@ -2502,7 +2502,7 @@
         "desc": "AI 서비스 흐름 구성"
       },
       {
-        "icon": "/image/course/ic_LLm.svg",
+        "icon": "/image/course/ic_llm.svg",
         "title": "LLM",
         "desc": "대형 언어모델 활용"
       },
