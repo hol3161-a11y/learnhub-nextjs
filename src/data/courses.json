@@ -2095,7 +2095,7 @@
         "desc": "서비스 화면 프로토타입 제작"
       },
       {
-        "icon": "/image/course/ic_ai.svg",
+        "icon": "/image/course/ic_vllm.svg",
         "title": "LLM",
         "desc": "대형 언어모델 활용 이해"
       },
