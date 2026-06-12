@@ -69,8 +69,8 @@ function ProfileEdit() {
             <option value="">선택해주세요.</option>
             <option value="중학교 졸업">중학교 졸업</option>
             <option value="고등학교 졸업">고등학교 졸업</option>
-            <option value="대학 2·3년제">(2·3년제) 대학</option>
-            <option value="대학교 4년제">(4년제) 대학교</option>
+            <option value="(2·3년제) 대학">(2·3년제) 대학</option>
+            <option value="(4년제) 대학교">(4년제) 대학교</option>
             <option value="(수료/졸업) 석사 이상">(수료/졸업) 석사 이상</option>
           </select>
         </div>
