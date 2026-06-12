@@ -6,7 +6,7 @@ import "@/styles/footer.scss";
 import Link from "next/link";
 
 function Footer() {
-  
+
   const scrollTop = () => {
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
@@ -21,8 +21,8 @@ function Footer() {
           </h2>
 
           <p>
-            배우고 성장하는 온라인 클래스 플랫폼 <br />
-            나에게 맞는 강의를 쉽고 빠르게 찾아보세요.
+            다양한 분야의 교육과정을 모아놓은 Learn Hub에서 <br />
+            나에게 꼭 맞는 학습 과정을 찾아보세요.
           </p>
         </div>
 

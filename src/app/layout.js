@@ -8,8 +8,8 @@ import AuthProvider from "./components/AuthProvider";
 import { Suspense } from "react";
 
 export const metadata = {
-  title: "LearnHub",
-  description: "온라인 교육 플랫폼",
+  title: "Learn Hub",
+  description: "교육 플랫폼 웹사이트",
 };
 
 export default function RootLayout({ children }) {
