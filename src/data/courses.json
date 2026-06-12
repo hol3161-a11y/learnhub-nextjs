@@ -691,7 +691,7 @@
         "desc": "백엔드 개발 기초"
       },
       {
-       "icon": "/image/course/ic_springboot.svg",
+       //"icon": "/image/course/ic_sever.svg",
         "title": "SpringBoot",
         "desc": "서버 API 구성"
       },
@@ -921,7 +921,7 @@
 
     "curriculum": [
       {
-        "icon": "/image/course/ic_springboot.svg",
+        "icon": "/image/course/ic_sever.svg",
         "title": "Spring Boot",
         "desc": "백엔드 서버 기본 구조 학습"
       },
@@ -1154,7 +1154,7 @@
 
     "curriculum": [
       {
-        "icon": "/image/course/ic_springboot.svg",
+        "icon": "/image/course/ic_sever.svg",
         "title": "Spring Boot",
         "desc": "서버 애플리케이션 개발"
       },
@@ -1228,7 +1228,7 @@
         "desc": "서버 페이지 구성"
       },
       {
-        "icon": "/image/course/ic_springboot.svg",
+        "icon": "/image/course/ic_sever.svg",
         "title": "Spring",
         "desc": "웹 서비스 백엔드 개발"
       }
@@ -1276,7 +1276,7 @@
         "desc": "객체지향 백엔드 개발"
       },
       {
-        "icon": "/image/course/ic_springboot.svg",
+        "icon": "/image/course/ic_sever.svg",
         "title": "Spring Boot",
         "desc": "REST API 서버 구축"
       },
@@ -1339,7 +1339,7 @@
         "desc": "웹서비스 구조 설계"
       },
       {
-        "icon": "/image/course/ic_springboot.svg",
+        "icon": "/image/course/ic_sever.svg",
         "title": "Spring Boot",
         "desc": "백엔드 서버 개발"
       },
@@ -1397,7 +1397,7 @@
         "desc": "자동화 배포 파이프라인"
       },
       {
-        "icon": "/image/course/ic_springboot.svg",
+        "icon": "/image/course/ic_spring.svg",
         "title": "Spring",
         "desc": "백엔드 애플리케이션 개발"
       },
@@ -1619,7 +1619,7 @@
 
     "curriculum": [
       {
-        "icon": "/image/course/ic_springboot.svg",
+        "icon": "/image/course/ic_spring.svg",
         "title": "Spring",
         "desc": "서버 애플리케이션 개발"
       },
@@ -1634,7 +1634,7 @@
         "desc": "객체 관계 매핑"
       },
       {
-        "icon": "/image/course/ic_springboot.svg",
+        "icon": "/image/course/ic_sever.svg",
         "title": "SpringBoot",
         "desc": "REST API 서버 구축"
       }
@@ -1683,7 +1683,7 @@
         "desc": "백엔드 개발 핵심 문법"
       },
       {
-        "icon": "/image/course/ic_springboot.svg",
+        "icon": "/image/course/ic_spring.svg",
         "title": "Spring",
         "desc": "웹 서버와 API 개발"
       },
@@ -1746,7 +1746,7 @@
         "desc": "협업 및 버전 관리"
       },
       {
-        "icon": "/image/course/ic_springboot.svg",
+        "icon": "/image/course/ic_sever.svg",
         "title": "SpringBoot",
         "desc": "REST API 서버 개발"
       },
