@@ -2502,7 +2502,7 @@
         "desc": "AI 서비스 흐름 구성"
       },
       {
-        "icon": "/image/course/ic_llm.svg",
+        "icon": "/image/course/ic_LLm.svg",
         "title": "LLM",
         "desc": "대형 언어모델 활용"
       },
@@ -2799,7 +2799,7 @@
         "desc": "예측 모델 개발"
       },
       {
-        "icon": "/image/course/ic_bigdata.svg",
+        "icon": "/image/course/ic_data.svg",
         "title": "빅데이터",
         "desc": "대용량 데이터 분석"
       }
