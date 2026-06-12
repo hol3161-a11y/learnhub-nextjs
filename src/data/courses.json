@@ -397,7 +397,7 @@
         "desc": "컴포넌트 기반 UI 개발"
       },
       {
-        "icon": "/image/course/ic_next.svg",
+        "icon": "/image/course/ic_nextjs.svg",
         "title": "Next.js",
         "desc": "라우팅과 페이지 구성"
       },
@@ -808,7 +808,7 @@
         "desc": "기초 문법과 함수"
       },
       {
-        "icon": "/image/course/ic_Dom.svg",
+        "icon": "/image/course/ic_DOM.svg",
         "title": "DOM",
         "desc": "HTML 요소 제어"
       },
