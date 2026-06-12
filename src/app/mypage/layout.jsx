@@ -3,30 +3,40 @@
 import Link from "next/link";
 import "@/styles/mypage.scss";
 import { usePathname } from "next/navigation";
-import { signOut } from "next-auth/react";
+import { useSession, signOut } from "next-auth/react";
 
-function layout({ children }) {
+function Layout({ children }) {
   const pathname = usePathname();
+  const { data: session } = useSession();
 
   return (
     <section className="mypage">
       <div className="mypageInner">
         <aside className="mypageAside">
           <h2>마이페이지</h2>
+
+          {!session && (
+            <p className="mypageGuide">
+              로그인 후 개인 정보 수정 및 학습 관리를 이용할 수 있습니다.
+            </p>
+          )}
+
           <nav className="mypageNav">
-            <Link
-              href="/mypage"
-              className={pathname === "/mypage" ? "active" : ""}
-            >
-              <img
-                src={
-                  pathname === "/mypage"
-                    ? "/image/ic_mypage_active-person.svg"
-                    : "/image/ic_mypage-person.svg"
-                }
-              />{" "}
-              개인 정보 수정
-            </Link>
+            {session && (
+              <Link
+                href="/mypage"
+                className={pathname === "/mypage" ? "active" : ""}
+              >
+                <img
+                  src={
+                    pathname === "/mypage"
+                      ? "/image/ic_mypage_active-person.svg"
+                      : "/image/ic_mypage-person.svg"
+                  }
+                />{" "}
+                개인 정보 수정
+              </Link>
+            )}
 
             <Link
               href="/mypage/notice"
@@ -56,19 +66,18 @@ function layout({ children }) {
               고객센터
             </Link>
 
-            <Link
-              href="#"
-              onClick={(e) => {
-                e.preventDefault();
-
-                signOut({
-                  callbackUrl: "/",
-                });
-              }}
-            >
-              <img src="/image/ic_mypage-logout.svg" />
-              로그아웃
-            </Link>
+            {session && (
+              <Link
+                href="#"
+                onClick={(e) => {
+                  e.preventDefault();
+                  signOut({ callbackUrl: "/" });
+                }}
+              >
+                <img src="/image/ic_mypage-logout.svg" />
+                로그아웃
+              </Link>
+            )}
           </nav>
         </aside>
 
@@ -78,4 +87,4 @@ function layout({ children }) {
   );
 }
 
-export default layout;
+export default Layout;
