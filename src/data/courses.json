@@ -691,7 +691,7 @@
         "desc": "백엔드 개발 기초"
       },
       {
-       //"icon": "/image/course/ic_sever.svg",
+       "icon": "/image/course/ic_sever.svg",
         "title": "SpringBoot",
         "desc": "서버 API 구성"
       },
