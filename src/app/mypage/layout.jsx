@@ -61,8 +61,6 @@ function layout({ children }) {
               onClick={(e) => {
                 e.preventDefault();
 
-                localStorage.removeItem("userProfile");
-
                 signOut({
                   callbackUrl: "/",
                 });
