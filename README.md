@@ -119,12 +119,9 @@
 
 # 🛠 기술 스택
 
-## 🛠 기술 스택
-
 ### 💻 개발 환경
 
 #### 1. Frontend
-
 <table>
   <thead>
     <tr>
@@ -135,31 +132,19 @@
   </thead>
   <tbody>
     <tr>
-      <td>Next.js 16 (App Router)</td>
-      <td>App Router 기반으로 페이지 라우팅 및 서버 컴포넌트를 활용한 웹 애플리케이션 개발</td>
+      <td>Next.js</td>
+      <td>App Router 기반 풀스택 프레임워크</td>
       <td><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"></td>
     </tr>
     <tr>
-      <td>React 19</td>
-      <td>컴포넌트 기반 UI 개발</td>
-      <td><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"></td>
-    </tr>
-    <tr>
-      <td>TypeScript</td>
-      <td>정적 타입 기반으로 안정적인 코드 작성</td>
-      <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"></td>
-    </tr>
-    <tr>
       <td>SCSS</td>
-      <td>모듈 기반 스타일링 및 유지보수성 향상</td>
+      <td>스타일 모듈 관리</td>
       <td><img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"></td>
     </tr>
   </tbody>
 </table>
 
----
-
-#### 2. UI Library
+### 🎨 UI Library
 
 <table>
   <thead>
@@ -171,21 +156,14 @@
   </thead>
   <tbody>
     <tr>
-      <td>Material UI</td>
-      <td>아이콘 및 UI 컴포넌트 구현</td>
-      <td><img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white"></td>
-    </tr>
-    <tr>
       <td>Swiper</td>
-      <td>메인 배너 및 추천 강의 슬라이더 구현</td>
+      <td>신규 강의 및 추천 강의 슬라이더 구현</td>
       <td><img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white"></td>
     </tr>
   </tbody>
 </table>
 
----
-
-#### 3. Authentication
+### 🔐 Authentication
 
 <table>
   <thead>
@@ -204,9 +182,7 @@
   </tbody>
 </table>
 
----
-
-#### 4. Browser Storage
+### 💾 Storage
 
 <table>
   <thead>
@@ -219,15 +195,13 @@
   <tbody>
     <tr>
       <td>LocalStorage</td>
-      <td>관심 강의, 최근 본 강의, 온보딩 정보를 브라우저에 저장</td>
+      <td>관심 강의, 최근 본 강의, 온보딩 데이터를 브라우저에 저장</td>
       <td><img src="https://img.shields.io/badge/LocalStorage-F9AB00?style=flat-square&logo=googlechrome&logoColor=white"></td>
     </tr>
   </tbody>
 </table>
 
----
-
-#### 5. Development Tool
+### 🛠 Development Tool
 
 <table>
   <thead>
@@ -245,12 +219,12 @@
     </tr>
     <tr>
       <td>Git</td>
-      <td>버전 관리</td>
+      <td>프로젝트 버전 관리</td>
       <td><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></td>
     </tr>
     <tr>
       <td>GitHub</td>
-      <td>소스 코드 관리 및 프로젝트 저장소 운영</td>
+      <td>소스 코드 관리 및 원격 저장소 운영</td>
       <td><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></td>
     </tr>
     <tr>
@@ -261,9 +235,7 @@
   </tbody>
 </table>
 
----
-
-#### 6. Deployment
+### 🚀 Deployment
 
 <table>
   <thead>
@@ -281,7 +253,6 @@
     </tr>
   </tbody>
 </table>
-
 ---
 
 # 📅 개발 기간
