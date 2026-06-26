@@ -2,7 +2,8 @@
 
 > **국비지원부터 온라인 강의까지, 다양한 교육과정을 한 곳에서 검색하고 비교할 수 있는 교육 플랫폼**
 
-<img width="1200" height="639" alt="LearnHub_README_1200" src="https://github.com/user-attachments/assets/37030b26-8705-4553-a502-dcfe9ce5a6d7" />
+<img width="1672" height="941" alt="ChatGPT Image 2026년 6월 26일 오후 04_19_08" src="https://github.com/user-attachments/assets/78496b73-b5a9-421d-a954-afe316a63470" />
+
 
 
 <br>
@@ -22,8 +23,8 @@
 | **프로젝트명**   | Learn Hub           |
 | **프로젝트 유형** | 개인 프로젝트             |
 | **주제**      | 교육과정 검색 및 학습 관리 플랫폼 |
-| **개발 기간**   | (작성)                |
-| **배포 주소**   | (작성)                |
+| **개발 기간**   | 2026.05.14 ~ 2026.06.11                |
+| **배포 주소**   | https://learnhub-nextjs.vercel.app/                |
 
 ---
 
@@ -106,49 +107,180 @@
 
 | 페이지        | 주요 기능                      |
 | ---------- | -------------------------- |
-| **Home**   | 검색, 추천 검색어, 추천 강의, 신규 강의   |
+| **Home**   | 검색, 검색어, 추천 강의, 신규 강의   |
 | **강의**     | 전체 교육과정 조회, 검색, 페이지네이션     |
 | **카테고리**   | 분야별 강의 조회, 필터, 정렬          |
-| **상세 페이지** | 강의 소개, 커리큘럼, 기관 정보, 찜하기    |
-| **나의 강의**  | 관심 강의, 학습 관리               |
-| **마이페이지**  | 회원정보, 개인정보 수정, 고객센터        |
+| **상세 페이지** | 강의 소개, 커리큘럼, 기관 정보, 찜하기, 신청하러 가기    |
+| **나의 강의**  | 관심 강의, 학습 관리, 최근 본 강의               |
+| **마이페이지**  | 개인정보 수정, 고객센터, 공지사항        |
 | **로그인**    | Google · Kakao · Naver 로그인 |
 
 ---
 
 # 🛠 기술 스택
 
-### Front-End
+## 🛠 기술 스택
 
-```text
-Next.js 16
-React 19
-TypeScript
-SCSS
-Material UI
-Swiper
-```
+### 💻 개발 환경
 
-### Authentication
+#### 1. Frontend
 
-```text
-NextAuth
-Google Login
-Kakao Login
-Naver Login
-```
+<table>
+  <thead>
+    <tr>
+      <th>사용기술</th>
+      <th>설명</th>
+      <th>Badge</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Next.js 16 (App Router)</td>
+      <td>App Router 기반으로 페이지 라우팅 및 서버 컴포넌트를 활용한 웹 애플리케이션 개발</td>
+      <td><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"></td>
+    </tr>
+    <tr>
+      <td>React 19</td>
+      <td>컴포넌트 기반 UI 개발</td>
+      <td><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"></td>
+    </tr>
+    <tr>
+      <td>TypeScript</td>
+      <td>정적 타입 기반으로 안정적인 코드 작성</td>
+      <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"></td>
+    </tr>
+    <tr>
+      <td>SCSS</td>
+      <td>모듈 기반 스타일링 및 유지보수성 향상</td>
+      <td><img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"></td>
+    </tr>
+  </tbody>
+</table>
 
-### State & Storage
+---
 
-```text
-LocalStorage
-```
+#### 2. UI Library
 
-### Deployment
+<table>
+  <thead>
+    <tr>
+      <th>사용기술</th>
+      <th>설명</th>
+      <th>Badge</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Material UI</td>
+      <td>아이콘 및 UI 컴포넌트 구현</td>
+      <td><img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white"></td>
+    </tr>
+    <tr>
+      <td>Swiper</td>
+      <td>메인 배너 및 추천 강의 슬라이더 구현</td>
+      <td><img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white"></td>
+    </tr>
+  </tbody>
+</table>
 
-```text
-Vercel
-```
+---
+
+#### 3. Authentication
+
+<table>
+  <thead>
+    <tr>
+      <th>사용기술</th>
+      <th>설명</th>
+      <th>Badge</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>NextAuth.js</td>
+      <td>Google · Kakao · Naver 소셜 로그인 및 세션 인증 구현</td>
+      <td><img src="https://img.shields.io/badge/Auth.js-000000?style=flat-square&logo=auth0&logoColor=white"></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+#### 4. Browser Storage
+
+<table>
+  <thead>
+    <tr>
+      <th>사용기술</th>
+      <th>설명</th>
+      <th>Badge</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>LocalStorage</td>
+      <td>관심 강의, 최근 본 강의, 온보딩 정보를 브라우저에 저장</td>
+      <td><img src="https://img.shields.io/badge/LocalStorage-F9AB00?style=flat-square&logo=googlechrome&logoColor=white"></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+#### 5. Development Tool
+
+<table>
+  <thead>
+    <tr>
+      <th>사용기술</th>
+      <th>설명</th>
+      <th>Badge</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Visual Studio Code</td>
+      <td>프로젝트 개발 및 코드 편집</td>
+      <td><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"></td>
+    </tr>
+    <tr>
+      <td>Git</td>
+      <td>버전 관리</td>
+      <td><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></td>
+    </tr>
+    <tr>
+      <td>GitHub</td>
+      <td>소스 코드 관리 및 프로젝트 저장소 운영</td>
+      <td><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></td>
+    </tr>
+    <tr>
+      <td>Figma</td>
+      <td>UI/UX 디자인 및 프로토타입 제작</td>
+      <td><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+#### 6. Deployment
+
+<table>
+  <thead>
+    <tr>
+      <th>사용기술</th>
+      <th>설명</th>
+      <th>Badge</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Vercel</td>
+      <td>프로젝트 배포 및 운영</td>
+      <td><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
